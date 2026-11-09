@@ -1,4 +1,4 @@
-# ⚽ FPL Player Picker
+# FPL Player Picker
 
 A free, auto-updating dashboard that predicts every Fantasy Premier League (FPL) player's points for the next gameweek, picks the best XI across all formations, and finds the best-value players to buy.
 
