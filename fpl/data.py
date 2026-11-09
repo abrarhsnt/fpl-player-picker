@@ -21,8 +21,9 @@ def fetch(data_dir="data"):
         columns={"id": "team", "name": "team_name", "short_name": "team_short"})
     pl = pd.DataFrame(b["elements"])
     players = pl[["id", "web_name", "team", "element_type", "now_cost",
-                  "chance_of_playing_next_round"]].rename(
-        columns={"id": "player", "element_type": "pos_id"})
+                  "chance_of_playing_next_round", "news"]].rename(
+        columns={"id": "player", "web_name": "player_name", "element_type": "pos_id"})
+    players["news"] = players["news"].fillna("")
     players["price"] = players.now_cost / 10
     players["pos"] = players.pos_id.map(POS)
     players = players.merge(teams, on="team").drop(columns="now_cost")

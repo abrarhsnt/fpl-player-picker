@@ -14,7 +14,7 @@ hist = pd.concat([past, cur], ignore_index=True)
 preds, meta = predict(hist, players, tfix, last_gw, next_gw)
 preds.to_csv("data/predictions.csv", index=False)
 os.makedirs("data/pred_log", exist_ok=True)   # forecasts saved BEFORE games, for later accuracy tracking
-preds[["player", "web_name", "pred"]].to_csv(f"data/pred_log/gw{next_gw}.csv", index=False)
+preds[["player", "player_name", "pred"]].to_csv(f"data/pred_log/gw{next_gw}.csv", index=False)
 meta.update(last_gw=int(last_gw), next_gw=int(next_gw),
             updated=datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"))
 json.dump(meta, open("data/meta.json", "w"))

@@ -65,13 +65,18 @@ def predict(hist, players, tfix, last_gw, next_gw):
     meta = evaluate(train, feats, last_gw) if last_gw >= 3 else {}
     model = _fit(train, feats)
     fut = df[(df.season == CURRENT_SEASON) & (df.gw == next_gw)].copy()
+    sp = (df[(df.season == CURRENT_SEASON) & df.total_points.notna()]
+          .groupby("pid").total_points.sum().rename("season_pts"))
+    fut = fut.merge(sp, on="pid", how="left")
+    fut["season_pts"] = fut.season_pts.fillna(0).astype(int)
     fut["player"] = fut.pid.str.split("_").str[1].astype(int)
     fut["pred"] = np.clip(model.predict(fut[feats]), 0, None)
-    fut = fut.merge(players[["player", "web_name", "team_name", "team_short", "pos",
-                             "chance_of_playing_next_round"]], on="player")
+    fut = fut.merge(players[["player", "player_name", "team_name", "team_short", "pos",
+                             "chance_of_playing_next_round", "news"]], on="player")
     fut["pred"] = (fut.pred * fut.chance_of_playing_next_round.fillna(100) / 100).round(2)
     fut["form"] = fut.total_points_r3.round(2)
     fut["value"] = (fut.pred / fut.price).round(3)
-    cols = ["player", "web_name", "team_name", "team_short", "pos", "price", "pred",
-            "value", "form", "fix_diff", "fix_home", "n_fix", "chance_of_playing_next_round"]
+    cols = ["player", "player_name", "team_name", "team_short", "pos", "price", "pred",
+            "season_pts", "value", "form", "fix_diff", "fix_home", "n_fix",
+            "chance_of_playing_next_round", "news"]
     return fut[cols].sort_values("pred", ascending=False), meta
