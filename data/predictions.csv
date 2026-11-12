@@ -13,11 +13,11 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 366,Wirtz,Liverpool,LIV,MID,7.2,4.12,46,0.572,7.0,3.0,1.0,1,100.0,
 627,Barcola,Liverpool,LIV,MID,8.1,4.1,25,0.506,4.0,3.0,1.0,1,,
 399,Cherki,Man City,MCI,MID,7.9,4.08,54,0.516,3.33,2.0,1.0,1,,
-183,Rudoni,Coventry City,COV,MID,4.9,4.04,39,0.824,4.33,2.0,1.0,1,100.0,
 79,Evanilson,Bournemouth,BOU,FWD,6.5,4.04,61,0.622,8.0,3.0,1.0,1,,
+183,Rudoni,Coventry City,COV,MID,4.9,4.04,39,0.824,4.33,2.0,1.0,1,100.0,
 138,Kostoulas,Brighton,BHA,FWD,5.8,4.04,47,0.697,2.0,2.0,0.0,1,,
-68,Tavernier,Bournemouth,BOU,MID,6.7,4.01,58,0.599,5.33,3.0,1.0,1,,
 237,Ndiaye,Man City,MCI,MID,5.8,4.01,37,0.691,3.0,2.0,1.0,1,,
+68,Tavernier,Bournemouth,BOU,MID,6.7,4.01,58,0.599,5.33,3.0,1.0,1,,
 15,Ødegaard,Arsenal,ARS,MID,6.7,3.99,50,0.596,5.67,3.0,0.0,1,,
 13,Rice,Arsenal,ARS,MID,7.5,3.91,50,0.521,4.67,3.0,0.0,1,100.0,
 480,Gibbs-White,Nott'm Forest,NFO,MID,7.8,3.89,39,0.499,3.0,4.0,0.0,1,100.0,
@@ -31,44 +31,43 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 67,Rayan,Bournemouth,BOU,MID,6.3,3.75,30,0.595,5.0,3.0,1.0,1,,
 211,Yeremy,Crystal Palace,CRY,MID,5.5,3.74,28,0.68,1.0,2.0,0.0,1,,
 1,Raya,Arsenal,ARS,GKP,6.2,3.68,60,0.594,6.0,3.0,0.0,1,,
-504,Vuskovic,Brighton,BHA,DEF,5.3,3.64,70,0.687,6.33,2.0,0.0,1,,
 426,B.Fernandes,Man Utd,MUN,MID,11.6,3.64,45,0.314,4.0,4.0,0.0,1,,
+504,Vuskovic,Brighton,BHA,DEF,5.3,3.64,70,0.687,6.33,2.0,0.0,1,,
 579,Araujo,Liverpool,LIV,DEF,5.5,3.6,44,0.655,7.0,3.0,1.0,1,,
 156,Neto,Chelsea,CHE,MID,6.6,3.6,41,0.545,2.33,3.0,1.0,1,,
-350,A.Becker,Liverpool,LIV,GKP,5.5,3.59,42,0.653,4.0,3.0,1.0,1,,
 390,Rúben,Man City,MCI,DEF,5.5,3.59,28,0.653,1.33,2.0,1.0,1,,
+350,A.Becker,Liverpool,LIV,GKP,5.5,3.59,42,0.653,4.0,3.0,1.0,1,,
+455,Tonali,Spurs,TOT,MID,5.3,3.57,34,0.674,3.0,2.0,1.0,1,100.0,
 109,Verbruggen,Brighton,BHA,GKP,4.7,3.57,57,0.76,6.33,2.0,0.0,1,,
 60,Hill,Bournemouth,BOU,DEF,5.6,3.57,42,0.638,7.0,3.0,1.0,1,,
-455,Tonali,Spurs,TOT,MID,5.3,3.57,34,0.674,3.0,2.0,1.0,1,100.0,
 502,Robertson,Spurs,TOT,DEF,4.3,3.53,38,0.821,5.33,2.0,1.0,1,100.0,
-53,Manzambi,Aston Villa,AVL,MID,6.2,3.51,40,0.566,3.33,2.0,1.0,1,100.0,
 384,Donnarumma,Man City,MCI,GKP,5.4,3.5,33,0.648,1.33,2.0,1.0,1,,
 496,Kinsky,Spurs,TOT,GKP,4.4,3.5,40,0.795,5.67,2.0,1.0,1,,
 236,Dewsbury-Hall,Everton,EVE,MID,6.7,3.49,50,0.521,5.0,4.0,0.0,1,,
 525,Fernandes,Spurs,TOT,MID,5.6,3.45,24,0.616,5.0,2.0,1.0,1,,
 453,Barnes,Newcastle,NEW,MID,6.1,3.42,44,0.561,4.0,4.0,1.0,1,,
 249,Barry,Everton,EVE,FWD,5.7,3.41,55,0.598,9.0,4.0,0.0,1,,
-116,Dunk,Brighton,BHA,DEF,4.5,3.4,41,0.756,4.0,2.0,0.0,1,100.0,
 16,Madueke,Arsenal,ARS,MID,6.2,3.4,22,0.548,4.33,3.0,0.0,1,100.0,
+116,Dunk,Brighton,BHA,DEF,4.5,3.4,41,0.756,4.0,2.0,0.0,1,100.0,
 210,Wharton,Crystal Palace,CRY,MID,5.3,3.39,29,0.64,2.67,2.0,0.0,1,100.0,
 362,Jacquet,Liverpool,LIV,DEF,5.1,3.38,44,0.663,4.67,3.0,1.0,1,100.0,
 31,Konsa,Arsenal,ARS,DEF,4.8,3.35,57,0.698,10.67,3.0,0.0,1,100.0,
 214,Kamada,Crystal Palace,CRY,MID,5.0,3.35,36,0.67,2.0,2.0,0.0,1,,
-566,Silva,Bournemouth,BOU,DEF,5.1,3.34,40,0.655,6.33,3.0,1.0,1,,
 372,Mac Allister,Liverpool,LIV,MID,5.4,3.34,27,0.619,4.33,3.0,1.0,1,,
+566,Silva,Bournemouth,BOU,DEF,5.1,3.34,40,0.655,6.33,3.0,1.0,1,,
 367,Gakpo,Liverpool,LIV,MID,7.1,3.33,40,0.469,2.67,3.0,1.0,1,100.0,
 61,Truffert,Bournemouth,BOU,DEF,5.4,3.31,33,0.613,6.0,3.0,1.0,1,,
 91,Pinnock,Coventry City,COV,DEF,4.5,3.28,28,0.729,3.67,2.0,1.0,1,,
 503,Van de Ven,Spurs,TOT,DEF,5.0,3.26,31,0.652,4.0,2.0,1.0,1,100.0,
 47,Kamara,Aston Villa,AVL,MID,5.0,3.25,34,0.65,3.33,2.0,1.0,1,100.0,
 597,Suzuki,Aston Villa,AVL,GKP,5.0,3.25,31,0.65,1.67,2.0,1.0,1,,
-229,Tarkowski,Everton,EVE,DEF,6.2,3.24,56,0.523,3.33,4.0,0.0,1,,
 110,Rushworth,Coventry City,COV,GKP,4.5,3.24,26,0.72,2.0,2.0,1.0,1,,
+229,Tarkowski,Everton,EVE,DEF,6.2,3.24,56,0.523,3.33,4.0,0.0,1,,
 204,Mitchell,Crystal Palace,CRY,DEF,4.5,3.23,33,0.718,1.67,2.0,0.0,1,,
-176,Dasilva,Coventry City,COV,DEF,4.0,3.22,30,0.805,1.67,2.0,1.0,1,,
+94,Schade,Brentford,BRE,MID,6.1,3.22,46,0.528,2.0,3.0,1.0,1,100.0,
 202,Richards,Crystal Palace,CRY,DEF,4.9,3.22,27,0.657,2.33,2.0,0.0,1,,
 87,Ajer,Brentford,BRE,DEF,4.5,3.22,42,0.716,4.0,3.0,1.0,1,,
-94,Schade,Brentford,BRE,MID,6.1,3.22,46,0.528,2.0,3.0,1.0,1,100.0,
+176,Dasilva,Coventry City,COV,DEF,4.0,3.22,30,0.805,1.67,2.0,1.0,1,,
 346,Calvert-Lewin,Leeds,LEE,FWD,6.0,3.22,39,0.537,2.0,4.0,0.0,1,100.0,
 428,Cunha,Man Utd,MUN,MID,7.8,3.19,45,0.409,2.67,4.0,0.0,1,,
 295,McBurnie,Hull City,HUL,FWD,5.5,3.18,38,0.578,7.33,4.0,1.0,1,,
@@ -87,8 +86,8 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 95,O.Dango,Brentford,BRE,MID,6.2,3.0,26,0.484,5.67,3.0,1.0,1,,
 239,Garner,Everton,EVE,MID,6.0,2.98,25,0.497,2.67,4.0,0.0,1,100.0,
 57,Petrović,Bournemouth,BOU,GKP,4.5,2.97,30,0.66,5.0,3.0,1.0,1,,
-175,van Ewijk,Coventry City,COV,DEF,3.9,2.96,20,0.759,2.33,2.0,1.0,1,100.0,
 619,Palacios,Ipswich Town,IPS,MID,5.0,2.96,27,0.592,3.67,3.0,0.0,1,,
+175,van Ewijk,Coventry City,COV,DEF,3.9,2.96,20,0.759,2.33,2.0,1.0,1,100.0,
 26,Havertz,Arsenal,ARS,FWD,7.4,2.96,35,0.4,4.0,3.0,0.0,1,100.0,
 358,Kerkez,Liverpool,LIV,DEF,5.3,2.91,25,0.549,3.0,3.0,1.0,1,,
 486,McAtee,Nott'm Forest,NFO,MID,5.5,2.9,27,0.527,3.0,4.0,0.0,1,,
@@ -101,13 +100,13 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 70,Kluivert,Bournemouth,BOU,MID,5.9,2.83,31,0.48,5.0,3.0,1.0,1,100.0,
 356,Virgil,Liverpool,LIV,DEF,6.4,2.81,43,0.439,4.67,3.0,1.0,1,75.0,Unspecified injury - 75% chance of playing
 334,Muharemović,Leeds,LEE,DEF,5.1,2.8,56,0.549,7.33,4.0,0.0,1,,
-401,Marmoush,Spurs,TOT,FWD,7.0,2.79,24,0.399,2.0,2.0,1.0,1,100.0,
 304,O'Shea,Ipswich Town,IPS,DEF,4.0,2.79,28,0.698,1.33,3.0,0.0,1,,
+401,Marmoush,Spurs,TOT,FWD,7.0,2.79,24,0.399,2.0,2.0,1.0,1,100.0,
 8,Calafiori,Arsenal,ARS,DEF,5.9,2.78,57,0.471,4.33,3.0,0.0,1,100.0,
 656,Mfuni,Coventry City,COV,DEF,4.0,2.77,19,0.692,2.0,2.0,1.0,1,,
 368,Szoboszlai,Liverpool,LIV,MID,6.7,2.75,29,0.41,2.67,3.0,1.0,1,100.0,
-449,Hall,Newcastle,NEW,DEF,5.2,2.75,46,0.529,3.67,4.0,1.0,1,,
 452,Bruno G.,Arsenal,ARS,MID,6.7,2.75,28,0.41,2.33,3.0,0.0,1,100.0,
+449,Hall,Newcastle,NEW,DEF,5.2,2.75,46,0.529,3.67,4.0,1.0,1,,
 545,Sadiki,Sunderland,SUN,MID,4.8,2.74,25,0.571,3.33,3.0,0.0,1,,
 465,Osula,Newcastle,NEW,FWD,5.8,2.73,18,0.471,4.33,4.0,1.0,1,100.0,
 539,O'Nien,Sunderland,SUN,DEF,3.9,2.7,20,0.692,6.0,3.0,0.0,1,,
@@ -115,8 +114,9 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 385,Trafford,Leeds,LEE,GKP,5.0,2.68,54,0.536,7.33,4.0,0.0,1,,
 185,Sakamoto,Coventry City,COV,MID,4.8,2.67,14,0.556,3.33,2.0,1.0,1,,
 338,Ampadu,Leeds,LEE,MID,5.3,2.67,31,0.504,2.67,4.0,0.0,1,,
-571,Florentino,Ipswich Town,IPS,MID,4.8,2.64,20,0.55,4.67,3.0,0.0,1,100.0,
+53,Manzambi,Aston Villa,AVL,MID,6.2,2.64,40,0.426,3.33,2.0,1.0,1,75.0,Calf injury - 75% chance of playing
 572,Tzolakis,Hull City,HUL,GKP,4.7,2.64,49,0.562,3.33,4.0,1.0,1,,
+571,Florentino,Ipswich Town,IPS,MID,4.8,2.64,20,0.55,4.67,3.0,0.0,1,100.0,
 316,Emersonn,Ipswich Town,IPS,FWD,5.4,2.64,34,0.489,1.33,3.0,0.0,1,100.0,
 153,Disasi,Crystal Palace,CRY,DEF,4.4,2.63,10,0.598,3.0,2.0,0.0,1,100.0,
 565,M.Sangaré,Brentford,BRE,MID,5.4,2.62,32,0.485,2.67,3.0,1.0,1,,
@@ -131,34 +131,34 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 259,Diop,Ipswich Town,IPS,DEF,3.9,2.5,21,0.641,1.33,3.0,0.0,1,,
 305,Davis,Ipswich Town,IPS,DEF,4.0,2.49,28,0.622,0.67,3.0,0.0,1,,
 167,Delap,Nott'm Forest,NFO,FWD,5.3,2.48,30,0.468,5.67,4.0,0.0,1,,
-233,Mykolenko,Everton,EVE,DEF,4.6,2.47,42,0.537,4.67,4.0,0.0,1,100.0,
 64,Smith,Bournemouth,BOU,DEF,4.5,2.47,23,0.549,4.33,3.0,1.0,1,,
-101,Henderson,Chelsea,CHE,MID,4.9,2.46,27,0.502,1.33,3.0,1.0,1,100.0,
+233,Mykolenko,Everton,EVE,DEF,4.6,2.47,42,0.537,4.67,4.0,0.0,1,100.0,
 279,Ajayi,Hull City,HUL,DEF,4.2,2.46,42,0.586,4.0,4.0,1.0,1,100.0,
+101,Henderson,Chelsea,CHE,MID,4.9,2.46,27,0.502,1.33,3.0,1.0,1,100.0,
 159,Caicedo,Chelsea,CHE,MID,5.3,2.45,14,0.462,2.67,3.0,1.0,1,100.0,
 639,Andrés,Brighton,BHA,MID,5.5,2.45,20,0.445,1.0,2.0,0.0,1,100.0,
 244,Armstrong,Everton,EVE,MID,5.0,2.43,28,0.486,3.0,4.0,0.0,1,100.0,
-230,Branthwaite,Everton,EVE,DEF,5.5,2.43,43,0.442,4.0,4.0,0.0,1,100.0,
 85,Van den Berg,Brentford,BRE,DEF,4.9,2.43,14,0.496,4.33,3.0,1.0,1,100.0,
+230,Branthwaite,Everton,EVE,DEF,5.5,2.43,43,0.442,4.0,4.0,0.0,1,100.0,
 391,Gvardiol,Man City,MCI,DEF,5.6,2.42,44,0.432,1.0,2.0,1.0,1,75.0,Unspecified injury - 75% chance of playing
 332,Justin,Leeds,LEE,DEF,4.5,2.42,51,0.538,5.67,4.0,0.0,1,,
-250,Leno,Fulham,FUL,GKP,4.5,2.4,39,0.533,4.33,5.0,0.0,1,,
 593,Dedić,Newcastle,NEW,DEF,4.4,2.4,29,0.545,5.33,4.0,1.0,1,100.0,
+250,Leno,Fulham,FUL,GKP,4.5,2.4,39,0.533,4.33,5.0,0.0,1,,
 457,J.Murphy,Newcastle,NEW,MID,5.9,2.39,21,0.405,5.67,4.0,1.0,1,,
 98,Janelt,Brentford,BRE,MID,5.0,2.39,37,0.478,2.33,3.0,1.0,1,100.0,
 467,Sels,Nott'm Forest,NFO,GKP,5.0,2.35,23,0.47,1.67,4.0,0.0,1,,
-389,Matheus N.,Man City,MCI,DEF,5.9,2.34,22,0.397,1.0,2.0,1.0,1,100.0,
 492,Awoniyi,Coventry City,COV,FWD,5.4,2.34,16,0.433,4.0,2.0,1.0,1,100.0,
+389,Matheus N.,Man City,MCI,DEF,5.9,2.34,22,0.397,1.0,2.0,1.0,1,100.0,
 257,Bassey,Fulham,FUL,DEF,4.5,2.32,36,0.516,3.67,5.0,0.0,1,,
 157,Estêvão,Chelsea,CHE,MID,6.3,2.32,10,0.368,1.67,3.0,1.0,1,,
 526,Solanke,Spurs,TOT,FWD,5.8,2.31,22,0.398,1.33,2.0,1.0,1,,
 650,Affengruber,Fulham,FUL,DEF,4.5,2.3,32,0.511,3.67,5.0,0.0,1,100.0,
-483,Ndoye,Nott'm Forest,NFO,MID,5.5,2.28,29,0.415,1.33,4.0,0.0,1,100.0,
 618,Goretzka,Aston Villa,AVL,MID,5.9,2.28,11,0.386,3.33,2.0,1.0,1,100.0,
-474,Jair Cunha,Nott'm Forest,NFO,DEF,4.4,2.27,25,0.516,4.0,4.0,0.0,1,100.0,
-300,Walton,Ipswich Town,IPS,GKP,4.4,2.27,12,0.516,2.0,3.0,0.0,1,,
+483,Ndoye,Nott'm Forest,NFO,MID,5.5,2.28,29,0.415,1.33,4.0,0.0,1,100.0,
 149,Colwill,Chelsea,CHE,DEF,4.8,2.27,20,0.473,3.0,3.0,1.0,1,,
 514,Tel,Spurs,TOT,MID,5.6,2.27,24,0.405,5.0,2.0,1.0,1,75.0,Ankle injury - 75% chance of playing
+300,Walton,Ipswich Town,IPS,GKP,4.4,2.27,12,0.516,2.0,3.0,0.0,1,,
+474,Jair Cunha,Nott'm Forest,NFO,DEF,4.4,2.27,25,0.516,4.0,4.0,0.0,1,100.0,
 557,Tzolis,Arsenal,ARS,MID,6.1,2.25,22,0.369,2.0,3.0,0.0,1,100.0,
 43,Tielemans,Man Utd,MUN,MID,5.6,2.25,31,0.402,2.33,4.0,0.0,1,100.0,
 533,Mukiele,Sunderland,SUN,DEF,5.3,2.23,29,0.421,3.33,3.0,0.0,1,100.0,
@@ -166,21 +166,21 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 560,Penders,Chelsea,CHE,GKP,4.4,2.22,9,0.505,2.67,3.0,1.0,1,,
 290,Slater,Hull City,HUL,MID,4.5,2.22,24,0.493,2.0,4.0,1.0,1,,
 258,Castagne,Fulham,FUL,DEF,4.5,2.21,44,0.491,5.33,5.0,0.0,1,,
-558,Schlager,Nott'm Forest,NFO,MID,5.0,2.2,31,0.44,4.0,4.0,0.0,1,,
 432,Mainoo,Man Utd,MUN,MID,5.5,2.2,30,0.4,1.33,4.0,0.0,1,100.0,
-5,J.Timber,Arsenal,ARS,DEF,6.5,2.19,14,0.337,3.67,3.0,0.0,1,100.0,
+558,Schlager,Nott'm Forest,NFO,MID,5.0,2.2,31,0.44,4.0,4.0,0.0,1,,
 254,Robinson,Fulham,FUL,DEF,4.4,2.19,32,0.498,4.33,5.0,0.0,1,100.0,
+5,J.Timber,Arsenal,ARS,DEF,6.5,2.19,14,0.337,3.67,3.0,0.0,1,100.0,
 188,Torp,Coventry City,COV,MID,5.3,2.17,12,0.409,2.67,2.0,1.0,1,,
 398,Foden,Man City,MCI,MID,6.8,2.17,21,0.319,1.0,2.0,1.0,1,100.0,
-655,Gboho,Coventry City,COV,MID,5.5,2.16,10,0.393,3.33,2.0,1.0,1,,
 32,Cash,Aston Villa,AVL,DEF,4.3,2.16,18,0.502,1.33,2.0,1.0,1,100.0,
+655,Gboho,Coventry City,COV,MID,5.5,2.16,10,0.393,3.33,2.0,1.0,1,,
 460,Willock,Newcastle,NEW,MID,5.0,2.15,30,0.43,2.0,4.0,1.0,1,,
 277,Egan,Hull City,HUL,DEF,4.1,2.12,38,0.517,2.33,4.0,1.0,1,,
 345,Tanaka,Leeds,LEE,MID,4.9,2.12,27,0.433,3.33,4.0,0.0,1,,
 569,Gonzalo,Fulham,FUL,FWD,5.9,2.12,24,0.359,2.0,5.0,0.0,1,,
 161,Lavia,Chelsea,CHE,MID,5.0,2.12,23,0.424,3.33,3.0,1.0,1,,
-405,N.Gonzalez,Newcastle,NEW,MID,5.5,2.11,24,0.384,3.0,4.0,1.0,1,100.0,
 499,Pedro Porro,Spurs,TOT,DEF,5.3,2.11,16,0.398,2.33,2.0,1.0,1,100.0,
+405,N.Gonzalez,Newcastle,NEW,MID,5.5,2.11,24,0.384,3.0,4.0,1.0,1,100.0,
 145,Fofana,Chelsea,CHE,DEF,5.0,2.1,20,0.42,4.0,3.0,1.0,1,100.0,
 552,Brobbey,Sunderland,SUN,FWD,5.7,2.09,32,0.367,2.67,3.0,0.0,1,75.0,Muscular injury - 75% chance of playing
 471,Milenković,Nott'm Forest,NFO,DEF,5.4,2.07,14,0.383,0.67,4.0,0.0,1,100.0,
@@ -188,90 +188,90 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 588,Khalaili,Crystal Palace,CRY,DEF,5.0,2.06,23,0.412,0.67,2.0,0.0,1,100.0,
 10,White,Arsenal,ARS,DEF,5.4,2.04,42,0.378,3.33,3.0,0.0,1,100.0,
 580,Charles,Fulham,FUL,MID,5.0,2.03,25,0.406,2.0,5.0,0.0,1,,
-448,Burn,Newcastle,NEW,DEF,4.8,2.03,13,0.423,3.67,4.0,1.0,1,100.0,
 417,Dalot,Man Utd,MUN,DEF,4.7,2.03,16,0.432,1.33,4.0,0.0,1,,
+448,Burn,Newcastle,NEW,DEF,4.8,2.03,13,0.423,3.67,4.0,1.0,1,100.0,
 105,Anthony,Brentford,BRE,MID,5.9,2.02,27,0.342,1.67,3.0,1.0,1,,
 194,Thomas-Asante,Coventry City,COV,FWD,5.0,2.02,23,0.404,1.33,2.0,1.0,1,,
 315,Fatawu,Ipswich Town,IPS,MID,5.4,2.0,17,0.37,1.67,3.0,0.0,1,100.0,
 75,Christie,Bournemouth,BOU,MID,5.0,1.99,22,0.398,4.0,3.0,1.0,1,100.0,
-97,Jensen,Brentford,BRE,MID,5.4,1.99,14,0.369,2.0,3.0,1.0,1,100.0,
 240,Iroegbunam,Hull City,HUL,MID,5.0,1.99,23,0.398,6.33,4.0,1.0,1,100.0,
-431,Amad,Man Utd,MUN,MID,5.7,1.97,9,0.346,2.0,4.0,0.0,1,100.0,
+97,Jensen,Brentford,BRE,MID,5.4,1.99,14,0.369,2.0,3.0,1.0,1,100.0,
 198,Henderson,Crystal Palace,CRY,GKP,4.9,1.97,10,0.402,1.67,2.0,0.0,1,100.0,
+431,Amad,Man Utd,MUN,MID,5.7,1.97,9,0.346,2.0,4.0,0.0,1,100.0,
 203,Canvot,Crystal Palace,CRY,DEF,4.8,1.97,15,0.41,1.0,2.0,0.0,1,,
+318,Philogene,Ipswich Town,IPS,MID,5.4,1.96,9,0.363,1.67,3.0,0.0,1,100.0,
 598,Elvedi,Leeds,LEE,DEF,4.5,1.96,26,0.436,3.33,4.0,0.0,1,100.0,
 246,Röhl,Everton,EVE,MID,4.9,1.96,15,0.4,2.33,4.0,0.0,1,100.0,
-318,Philogene,Ipswich Town,IPS,MID,5.4,1.96,9,0.363,1.67,3.0,0.0,1,100.0,
 551,N.Angulo,Sunderland,SUN,MID,5.0,1.95,22,0.39,1.33,3.0,0.0,1,,
 586,Mendy,Hull City,HUL,DEF,4.1,1.94,34,0.473,2.0,4.0,1.0,1,100.0,
 123,Hinshelwood,Brighton,BHA,MID,5.9,1.92,25,0.325,1.0,2.0,0.0,1,100.0,
 78,Kroupi.Jr,Bournemouth,BOU,MID,7.3,1.89,6,0.259,2.0,3.0,1.0,1,100.0,
-25,Gyökeres,Arsenal,ARS,FWD,7.0,1.88,11,0.269,2.33,3.0,0.0,1,,
-241,McNeil,Crystal Palace,CRY,MID,5.3,1.88,10,0.355,1.67,2.0,0.0,1,,
 377,Munoz,Liverpool,LIV,MID,6.5,1.88,27,0.289,0.33,3.0,1.0,1,100.0,
-184,Grimes,Coventry City,COV,MID,4.8,1.88,19,0.392,1.33,2.0,1.0,1,,
+241,McNeil,Crystal Palace,CRY,MID,5.3,1.88,10,0.355,1.67,2.0,0.0,1,,
 224,Nketiah,Crystal Palace,CRY,FWD,5.4,1.88,17,0.348,2.33,2.0,0.0,1,100.0,
+184,Grimes,Coventry City,COV,MID,4.8,1.88,19,0.392,1.33,2.0,1.0,1,,
+25,Gyökeres,Arsenal,ARS,FWD,7.0,1.88,11,0.269,2.33,3.0,0.0,1,,
 260,Wilson,Leeds,LEE,MID,6.1,1.87,12,0.307,2.0,4.0,0.0,1,100.0,
-420,Yoro,Man Utd,MUN,DEF,4.8,1.86,13,0.388,1.33,4.0,0.0,1,,
 387,O'Reilly,Man City,MCI,DEF,6.2,1.86,15,0.3,0.67,2.0,1.0,1,100.0,
 41,Buendía,Aston Villa,AVL,MID,5.9,1.86,29,0.315,0.33,2.0,1.0,1,,
+420,Yoro,Man Utd,MUN,DEF,4.8,1.86,13,0.388,1.33,4.0,0.0,1,,
 313,Clarke,Ipswich Town,IPS,MID,5.2,1.86,26,0.358,3.33,3.0,0.0,1,,
 201,Muñoz,Nott'm Forest,NFO,DEF,5.2,1.85,17,0.356,3.0,4.0,0.0,1,,
 265,Berge,Fulham,FUL,MID,4.8,1.83,25,0.381,2.33,5.0,0.0,1,,
-152,Palestra,Chelsea,CHE,DEF,5.3,1.82,10,0.343,2.67,3.0,1.0,1,100.0,
 54,Gomes,Aston Villa,AVL,MID,5.5,1.82,13,0.331,1.33,2.0,1.0,1,100.0,
+152,Palestra,Chelsea,CHE,DEF,5.3,1.82,10,0.343,2.67,3.0,1.0,1,100.0,
 548,Rigg,Sunderland,SUN,MID,4.8,1.8,8,0.375,1.67,3.0,0.0,1,,
-71,Cook,Bournemouth,BOU,MID,5.0,1.78,19,0.356,2.67,3.0,1.0,1,,
 631,Mbaye,Aston Villa,AVL,MID,6.0,1.78,10,0.297,2.0,2.0,1.0,1,,
-336,Okafor,Leeds,LEE,MID,5.7,1.77,28,0.311,2.0,4.0,0.0,1,100.0,
+71,Cook,Bournemouth,BOU,MID,5.0,1.78,19,0.356,2.67,3.0,1.0,1,,
 549,Talbi,Sunderland,SUN,MID,5.2,1.77,6,0.34,1.67,3.0,0.0,1,,
+336,Okafor,Leeds,LEE,MID,5.7,1.77,28,0.311,2.0,4.0,0.0,1,100.0,
 14,Eze,Arsenal,ARS,MID,6.2,1.77,9,0.285,1.33,3.0,0.0,1,,
-464,Wissa,Newcastle,NEW,FWD,5.9,1.76,22,0.298,1.33,4.0,1.0,1,,
 17,Merino,Arsenal,ARS,MID,5.7,1.76,11,0.309,1.67,3.0,0.0,1,,
-521,Kulusevski,Spurs,TOT,MID,6.5,1.75,4,0.269,1.0,2.0,1.0,1,100.0,
+464,Wissa,Newcastle,NEW,FWD,5.9,1.76,22,0.298,1.33,4.0,1.0,1,,
 454,Elanga,Newcastle,NEW,MID,6.0,1.75,22,0.292,1.33,4.0,1.0,1,100.0,
+521,Kulusevski,Spurs,TOT,MID,6.5,1.75,4,0.269,1.0,2.0,1.0,1,100.0,
 282,Giles,Hull City,HUL,DEF,4.0,1.75,31,0.438,1.33,4.0,1.0,1,,
 415,Dorgu,Man Utd,MUN,MID,5.7,1.73,21,0.304,3.67,4.0,0.0,1,100.0,
 562,Maeda,Ipswich Town,IPS,MID,5.3,1.73,21,0.326,1.33,3.0,0.0,1,,
 430,Mount,Man Utd,MUN,MID,5.4,1.73,6,0.32,1.33,4.0,0.0,1,100.0,
-576,Stroud,Hull City,HUL,MID,4.9,1.72,16,0.351,1.67,4.0,1.0,1,,
 286,Belloumi,Hull City,HUL,MID,5.3,1.72,48,0.325,3.0,4.0,1.0,1,75.0,Hamstring injury - 75% chance of playing
+576,Stroud,Hull City,HUL,MID,4.9,1.72,16,0.351,1.67,4.0,1.0,1,,
 232,O'Brien,Everton,EVE,DEF,4.8,1.7,13,0.354,3.33,4.0,0.0,1,,
 446,Schär,Newcastle,NEW,DEF,4.9,1.68,12,0.343,3.33,4.0,1.0,1,100.0,
 583,Chavarria,Chelsea,CHE,DEF,4.9,1.63,13,0.333,1.0,3.0,1.0,1,100.0,
 617,Cho,Hull City,HUL,MID,5.0,1.62,12,0.324,1.0,4.0,1.0,1,100.0,
+647,Osorio,Crystal Palace,CRY,MID,5.4,1.6,7,0.296,2.0,2.0,0.0,1,,
 347,Nmecha,Leeds,LEE,FWD,5.3,1.6,13,0.302,1.33,4.0,0.0,1,,
 640,Flemming,Ipswich Town,IPS,FWD,5.5,1.6,14,0.291,0.67,3.0,0.0,1,,
-647,Osorio,Crystal Palace,CRY,MID,5.4,1.6,7,0.296,2.0,2.0,0.0,1,,
 280,Coyle,Hull City,HUL,DEF,4.0,1.59,25,0.398,2.67,4.0,1.0,1,100.0,
-388,Guéhi,Man City,MCI,DEF,6.0,1.58,37,0.263,0.0,2.0,1.0,1,75.0,Unspecified injury - 75% chance of playing
 515,Maddison,Spurs,TOT,MID,6.2,1.58,14,0.255,0.33,2.0,1.0,1,100.0,
 151,Acheampong,Chelsea,CHE,DEF,4.5,1.58,24,0.351,3.33,3.0,1.0,1,75.0,Unspecified injury - 75% chance of playing
-339,Longstaff,Leeds,LEE,MID,4.8,1.57,7,0.327,1.33,4.0,0.0,1,,
+388,Guéhi,Man City,MCI,DEF,6.0,1.58,37,0.263,0.0,2.0,1.0,1,75.0,Unspecified injury - 75% chance of playing
 519,Gallagher,Spurs,TOT,MID,5.3,1.57,15,0.296,0.67,2.0,1.0,1,,
-7,Lewis-Skelly,Arsenal,ARS,MID,5.3,1.56,13,0.294,0.67,3.0,0.0,1,,
+339,Longstaff,Leeds,LEE,MID,4.8,1.57,7,0.327,1.33,4.0,0.0,1,,
 125,Georginio,Brighton,BHA,FWD,5.3,1.56,14,0.294,1.0,2.0,0.0,1,100.0,
+7,Lewis-Skelly,Arsenal,ARS,MID,5.3,1.56,13,0.294,0.67,3.0,0.0,1,,
 369,Ngumoha,Liverpool,LIV,MID,5.7,1.54,9,0.27,1.0,3.0,1.0,1,,
 213,Lerma,Crystal Palace,CRY,MID,4.8,1.53,14,0.319,1.33,2.0,0.0,1,,
 209,Johnson,Everton,EVE,MID,5.8,1.53,15,0.264,1.0,4.0,0.0,1,,
 541,Meunier,Sunderland,SUN,DEF,4.4,1.52,21,0.345,2.0,3.0,0.0,1,100.0,
 81,Rodríguez,Bournemouth,BOU,FWD,6.0,1.52,6,0.253,0.67,3.0,1.0,1,100.0,
 162,Andrey Santos,Man Utd,MUN,MID,4.7,1.51,10,0.321,1.67,4.0,0.0,1,,
-462,Steur,Newcastle,NEW,MID,4.8,1.51,13,0.315,1.67,4.0,1.0,1,,
-136,Welbeck,Chelsea,CHE,FWD,5.8,1.51,9,0.26,1.0,3.0,1.0,1,100.0,
 644,Timber,Crystal Palace,CRY,MID,5.0,1.51,18,0.302,0.33,2.0,0.0,1,100.0,
 207,Mingueza,Crystal Palace,CRY,DEF,4.3,1.51,3,0.351,0.33,2.0,0.0,1,,
+136,Welbeck,Chelsea,CHE,FWD,5.8,1.51,9,0.26,1.0,3.0,1.0,1,100.0,
+462,Steur,Newcastle,NEW,MID,4.7,1.48,13,0.315,1.67,4.0,1.0,1,,
 375,Nyoni,Liverpool,LIV,MID,4.8,1.48,8,0.308,1.0,3.0,1.0,1,,
 605,Yalcouyé,Brighton,BHA,MID,4.4,1.46,25,0.332,1.0,2.0,0.0,1,,
-553,Isidor,Sunderland,SUN,FWD,5.4,1.43,19,0.265,0.67,3.0,0.0,1,100.0,
 96,Damsgaard,Brentford,BRE,MID,5.3,1.43,19,0.27,0.67,3.0,1.0,1,100.0,
-535,Alderete,Sunderland,SUN,DEF,4.8,1.41,1,0.294,0.33,3.0,0.0,1,100.0,
+553,Isidor,Sunderland,SUN,FWD,5.4,1.43,19,0.265,0.67,3.0,0.0,1,100.0,
 331,Gudmundsson,Leeds,LEE,DEF,4.5,1.41,28,0.313,3.0,4.0,0.0,1,75.0,Hamstring injury - 75% chance of playing
+535,Alderete,Sunderland,SUN,DEF,4.8,1.41,1,0.294,0.33,3.0,0.0,1,100.0,
 46,Barkley,Aston Villa,AVL,MID,5.0,1.4,15,0.28,1.0,2.0,1.0,1,100.0,
 459,L.Miley,Newcastle,NEW,MID,5.5,1.39,16,0.253,0.33,4.0,1.0,1,100.0,
 599,Cherif,Coventry City,COV,FWD,5.0,1.35,18,0.27,1.33,2.0,1.0,1,,
-90,Hickey,Brentford,BRE,DEF,4.5,1.34,9,0.298,0.67,3.0,1.0,1,,
 616,Bouaddi,Man City,MCI,MID,5.5,1.34,5,0.244,0.33,2.0,1.0,1,,
+90,Hickey,Brentford,BRE,DEF,4.5,1.34,9,0.298,0.67,3.0,1.0,1,,
 327,Bijol,Leeds,LEE,DEF,5.0,1.32,21,0.264,2.67,4.0,0.0,1,,
 108,Wilson,Brentford,BRE,FWD,5.3,1.32,6,0.249,1.0,3.0,1.0,1,,
 271,Muniz,Fulham,FUL,FWD,5.3,1.31,13,0.247,3.0,5.0,0.0,1,,
@@ -280,46 +280,46 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 222,Strand Larsen,Crystal Palace,CRY,FWD,5.9,1.3,23,0.22,0.67,2.0,0.0,1,75.0,Ankle injury - 75% chance of playing
 245,Dibling,Everton,EVE,MID,5.3,1.3,5,0.245,1.0,4.0,0.0,1,,
 440,Zirkzee,Man Utd,MUN,FWD,5.3,1.29,9,0.243,2.0,4.0,0.0,1,,
-585,Herrington,Hull City,HUL,DEF,3.9,1.27,10,0.326,1.67,4.0,1.0,1,,
 144,Gusto,Chelsea,CHE,DEF,4.8,1.27,7,0.265,0.67,3.0,1.0,1,100.0,
+585,Herrington,Hull City,HUL,DEF,3.9,1.27,10,0.326,1.67,4.0,1.0,1,,
 164,Quenda,Chelsea,CHE,MID,5.2,1.26,8,0.242,1.67,3.0,1.0,1,100.0,
 77,Adli,Bournemouth,BOU,MID,4.8,1.24,11,0.258,3.33,3.0,1.0,1,100.0,
 570,Palacios,Fulham,FUL,MID,5.3,1.23,19,0.232,2.0,5.0,0.0,1,,
 247,Hackney,Everton,EVE,MID,5.3,1.22,14,0.23,1.0,4.0,0.0,1,100.0,
 340,Gelhardt,Hull City,HUL,MID,5.0,1.21,13,0.242,1.0,4.0,1.0,1,100.0,
 482,Hudson-Odoi,Nott'm Forest,NFO,MID,5.7,1.2,4,0.211,0.33,4.0,0.0,1,100.0,
-628,Allan,Man City,MCI,MID,6.0,1.19,2,0.198,0.33,2.0,1.0,1,,
 490,Wood,Nott'm Forest,NFO,FWD,5.7,1.19,8,0.209,0.67,4.0,0.0,1,,
+628,Allan,Man City,MCI,MID,6.0,1.19,2,0.198,0.33,2.0,1.0,1,,
 445,Thiaw,Newcastle,NEW,DEF,4.9,1.17,18,0.239,1.0,4.0,1.0,1,,
-371,Gravenberch,Liverpool,LIV,MID,5.8,1.16,11,0.2,1.0,3.0,1.0,1,75.0,Foot injury - 75% chance of playing
 337,Aaronson,Leeds,LEE,MID,5.2,1.16,12,0.223,1.33,4.0,0.0,1,,
+371,Gravenberch,Liverpool,LIV,MID,5.8,1.16,11,0.2,1.0,3.0,1.0,1,75.0,Foot injury - 75% chance of playing
 635,Larsson,Fulham,FUL,MID,5.0,1.14,8,0.228,1.33,5.0,0.0,1,100.0,
 634,Fernandez-Pardo,Newcastle,NEW,FWD,5.8,1.13,8,0.195,0.33,4.0,1.0,1,100.0,
 84,Collins,Brentford,BRE,DEF,5.4,1.12,11,0.207,0.33,3.0,1.0,1,100.0,
 422,Mazraoui,Man Utd,MUN,DEF,4.3,1.12,9,0.26,1.0,4.0,0.0,1,100.0,
-130,Wieffer,Brighton,BHA,DEF,4.8,1.09,8,0.227,0.33,2.0,0.0,1,100.0,
 435,Lacey,Man Utd,MUN,MID,4.9,1.09,3,0.222,0.67,4.0,0.0,1,,
+130,Wieffer,Brighton,BHA,DEF,4.8,1.09,8,0.227,0.33,2.0,0.0,1,100.0,
 381,Koumas,Liverpool,LIV,MID,5.0,1.09,9,0.218,1.0,3.0,1.0,1,,
 421,Heaven,Man Utd,MUN,DEF,4.3,1.08,2,0.251,0.0,4.0,0.0,1,100.0,
 186,Mason-Clark,Coventry City,COV,MID,5.3,1.06,10,0.2,0.33,2.0,1.0,1,100.0,
 310,Matusiwa,Ipswich Town,IPS,MID,4.9,1.05,6,0.214,1.67,3.0,0.0,1,100.0,
-9,Hincapie,Arsenal,ARS,DEF,5.2,1.04,5,0.2,0.67,3.0,0.0,1,100.0,
-613,Ahoka,Sunderland,SUN,MID,4.4,1.04,5,0.236,1.33,3.0,0.0,1,,
 418,Maguire,Man Utd,MUN,DEF,4.6,1.04,16,0.226,0.0,4.0,0.0,1,75.0,Back injury - 75% chance of playing
+613,Ahoka,Sunderland,SUN,MID,4.4,1.04,5,0.236,1.33,3.0,0.0,1,,
+9,Hincapie,Arsenal,ARS,DEF,5.2,1.04,5,0.2,0.67,3.0,0.0,1,100.0,
 419,Martinez,Man Utd,MUN,DEF,4.8,1.03,9,0.215,-0.33,4.0,0.0,1,100.0,
 102,Yarmoliuk,Brentford,BRE,MID,4.7,1.02,16,0.217,0.33,3.0,1.0,1,100.0,
 343,James,Leeds,LEE,MID,4.9,0.97,5,0.198,0.67,4.0,0.0,1,100.0,
 160,Garnacho,Aston Villa,AVL,MID,5.7,0.96,4,0.168,0.33,2.0,1.0,1,,
-199,Benitez,Crystal Palace,CRY,GKP,4.5,0.94,13,0.209,0.33,2.0,0.0,1,,
 256,Tete,Fulham,FUL,DEF,4.4,0.94,4,0.214,1.0,5.0,0.0,1,100.0,
+199,Benitez,Crystal Palace,CRY,GKP,4.5,0.94,13,0.209,0.33,2.0,0.0,1,,
 589,Gourna-Douath,Hull City,HUL,MID,4.9,0.93,5,0.19,0.33,4.0,1.0,1,100.0,
-601,Williams-Barnett,Spurs,TOT,MID,4.4,0.91,2,0.207,0.67,2.0,1.0,1,,
-630,Harwood-Bellis,Aston Villa,AVL,DEF,4.5,0.91,0,0.202,0.0,2.0,1.0,1,,
 113,F.Kadıoğlu,Brighton,BHA,DEF,4.3,0.91,29,0.212,0.33,2.0,0.0,1,100.0,
+601,Williams-Barnett,Spurs,TOT,MID,4.4,0.91,2,0.207,0.67,2.0,1.0,1,,
 461,Touré,Newcastle,NEW,MID,5.7,0.91,11,0.16,0.33,4.0,1.0,1,100.0,
+630,Harwood-Bellis,Aston Villa,AVL,DEF,4.5,0.91,0,0.202,0.0,2.0,1.0,1,,
 620,Diouf,Brentford,BRE,DEF,4.4,0.9,6,0.205,0.67,3.0,1.0,1,,
-493,Kalimuendo,Nott'm Forest,NFO,FWD,5.4,0.9,4,0.167,0.33,4.0,0.0,1,,
 395,Lewis,Man City,MCI,DEF,4.3,0.9,2,0.209,0.33,2.0,1.0,1,,
+493,Kalimuendo,Nott'm Forest,NFO,FWD,5.4,0.9,4,0.167,0.33,4.0,0.0,1,,
 638,Norton-Cuffy,Hull City,HUL,DEF,3.9,0.88,5,0.226,0.67,4.0,1.0,1,100.0,
 62,Diakité,Bournemouth,BOU,DEF,4.9,0.86,4,0.176,1.0,3.0,1.0,1,,
 320,Akpom,Ipswich Town,IPS,FWD,5.0,0.85,12,0.17,1.0,3.0,0.0,1,,
@@ -330,30 +330,30 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 335,Stach,Leeds,LEE,MID,6.0,0.81,33,0.135,0.67,4.0,0.0,1,50.0,Foot injury - 50% chance of playing
 473,Aina,Nott'm Forest,NFO,DEF,4.2,0.81,9,0.193,0.33,4.0,0.0,1,,
 72,Gannon-Doak,Bournemouth,BOU,MID,4.8,0.8,7,0.167,0.33,3.0,1.0,1,,
-641,Bard,Leeds,LEE,DEF,4.5,0.79,2,0.176,0.33,4.0,0.0,1,,
 364,Tsimikas,Liverpool,LIV,DEF,4.9,0.79,4,0.161,0.67,3.0,1.0,1,,
-646,Fofana,Sunderland,SUN,MID,5.4,0.77,5,0.143,0.33,3.0,0.0,1,,
+641,Bard,Leeds,LEE,DEF,4.5,0.79,2,0.176,0.33,4.0,0.0,1,,
 568,Barco,Chelsea,CHE,MID,5.3,0.77,4,0.145,0.33,3.0,1.0,1,,
 668,Tutierov,Sunderland,SUN,MID,4.8,0.77,2,0.16,0.33,3.0,0.0,1,,
+646,Fofana,Sunderland,SUN,MID,5.4,0.77,5,0.143,0.33,3.0,0.0,1,,
 621,McAidoo,Man City,MCI,MID,4.4,0.76,2,0.173,0.0,2.0,1.0,1,,
-51,George Hemmings,Aston Villa,AVL,MID,4.4,0.74,10,0.168,0.33,2.0,1.0,1,100.0,
 122,Minteh,Brighton,BHA,MID,5.8,0.74,1,0.128,0.33,2.0,0.0,1,100.0,
-491,Igor Jesus,Nott'm Forest,NFO,FWD,5.6,0.73,12,0.13,0.0,4.0,0.0,1,100.0,
+51,George Hemmings,Aston Villa,AVL,MID,4.4,0.74,10,0.168,0.33,2.0,1.0,1,100.0,
 190,Tchaouna,Coventry City,COV,MID,5.3,0.73,6,0.138,0.33,2.0,1.0,1,,
-506,Udogie,Spurs,TOT,DEF,4.4,0.73,10,0.166,0.33,2.0,1.0,1,100.0,
 289,Crooks,Hull City,HUL,MID,4.4,0.73,6,0.166,0.0,4.0,1.0,1,100.0,
+491,Igor Jesus,Nott'm Forest,NFO,FWD,5.6,0.73,12,0.13,0.0,4.0,0.0,1,100.0,
+506,Udogie,Spurs,TOT,DEF,4.4,0.73,10,0.166,0.33,2.0,1.0,1,100.0,
+69,Scott,Bournemouth,BOU,MID,5.9,0.71,30,0.12,0.0,3.0,1.0,1,100.0,
+456,J.Ramsey,Newcastle,NEW,MID,4.8,0.71,6,0.148,-0.33,4.0,1.0,1,100.0,
 269,Sessegnon,Fulham,FUL,DEF,4.3,0.71,9,0.165,0.33,5.0,0.0,1,100.0,
 478,Netz,Nott'm Forest,NFO,DEF,4.4,0.71,4,0.161,0.33,4.0,0.0,1,,
-456,J.Ramsey,Newcastle,NEW,MID,4.8,0.71,6,0.148,-0.33,4.0,1.0,1,100.0,
-69,Scott,Bournemouth,BOU,MID,5.9,0.71,30,0.12,0.0,3.0,1.0,1,100.0,
 645,Mouzakitis,Hull City,HUL,MID,5.0,0.67,1,0.134,0.33,4.0,1.0,1,,
-488,I.Sangaré,Nott'm Forest,NFO,MID,4.7,0.66,7,0.14,0.33,4.0,0.0,1,100.0,
 93,Schuster,Brentford,BRE,DEF,4.5,0.66,22,0.147,0.0,3.0,1.0,1,100.0,
+488,I.Sangaré,Nott'm Forest,NFO,MID,4.7,0.66,7,0.14,0.33,4.0,0.0,1,100.0,
 33,Mings,Aston Villa,AVL,DEF,4.5,0.63,18,0.14,0.0,2.0,1.0,1,,
 447,Botman,Newcastle,NEW,DEF,5.0,0.61,26,0.122,0.0,4.0,1.0,1,,
 173,Thomas,Coventry City,COV,DEF,4.0,0.59,32,0.148,0.33,2.0,1.0,1,50.0,Calf injury - 50% chance of playing
-243,Alcaraz,Everton,EVE,MID,4.8,0.58,4,0.121,0.67,4.0,0.0,1,,
 231,Keane,Everton,EVE,DEF,4.7,0.58,3,0.123,0.67,4.0,0.0,1,,
+243,Alcaraz,Everton,EVE,MID,4.8,0.58,4,0.121,0.67,4.0,0.0,1,,
 648,Bahoya,Leeds,LEE,MID,4.8,0.57,3,0.119,0.33,4.0,0.0,1,100.0,
 642,Thomas,Hull City,HUL,MID,5.5,0.56,13,0.102,0.0,4.0,1.0,1,,
 637,Vaz,Hull City,HUL,FWD,5.0,0.55,5,0.11,0.33,4.0,1.0,1,100.0,
@@ -365,12 +365,12 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 238,Grealish,Everton,EVE,MID,6.5,0.45,10,0.069,0.0,4.0,0.0,1,100.0,
 329,Rodon,Leeds,LEE,DEF,4.2,0.44,8,0.105,0.33,4.0,0.0,1,100.0,
 195,Simms,Coventry City,COV,FWD,4.9,0.41,10,0.084,0.0,2.0,1.0,1,,
-406,Kovačić,Man City,MCI,MID,5.3,0.4,7,0.075,0.0,2.0,1.0,1,100.0,
 212,Hughes,Crystal Palace,CRY,MID,4.3,0.4,4,0.093,0.33,2.0,0.0,1,,
-267,Lukić,Ipswich Town,IPS,MID,4.9,0.39,15,0.08,0.0,3.0,0.0,1,100.0,
-498,Senesi,Spurs,TOT,DEF,5.7,0.39,5,0.068,0.0,2.0,1.0,1,,
+406,Kovačić,Man City,MCI,MID,5.3,0.4,7,0.075,0.0,2.0,1.0,1,100.0,
 581,Diomande,Nott'm Forest,NFO,DEF,5.3,0.39,10,0.074,0.0,4.0,0.0,1,,
 359,Gomez,Liverpool,LIV,DEF,4.9,0.39,3,0.08,0.33,3.0,1.0,1,100.0,
+267,Lukić,Ipswich Town,IPS,MID,4.9,0.39,15,0.08,0.0,3.0,0.0,1,100.0,
+498,Senesi,Spurs,TOT,DEF,5.7,0.39,5,0.068,0.0,2.0,1.0,1,,
 344,Gruev,Leeds,LEE,MID,5.0,0.38,1,0.076,0.33,4.0,0.0,1,100.0,
 74,Brooks,Bournemouth,BOU,MID,4.9,0.29,4,0.059,0.0,3.0,1.0,1,100.0,
 633,Ahanor,Crystal Palace,CRY,DEF,4.5,0.28,3,0.062,0.0,2.0,0.0,1,,
@@ -384,290 +384,290 @@ player,player_name,team_name,team_short,pos,price,pred,season_pts,value,form,fix
 147,Tosin,Spurs,TOT,DEF,4.3,0.23,3,0.053,0.0,2.0,1.0,1,100.0,
 564,Scherpen,Ipswich Town,IPS,GKP,4.4,0.21,7,0.048,0.0,3.0,0.0,1,,
 321,Walle Egeli,Ipswich Town,IPS,FWD,4.5,0.21,2,0.047,0.0,3.0,0.0,1,,
-370,Chiesa,Liverpool,LIV,MID,5.3,0.2,1,0.038,0.0,3.0,1.0,1,100.0,
 262,Smith Rowe,Fulham,FUL,MID,5.2,0.2,3,0.038,0.0,5.0,0.0,1,100.0,
 611,Wan-Bissaka,Aston Villa,AVL,DEF,4.5,0.2,13,0.044,0.0,2.0,1.0,1,50.0,Hamstring injury - 50% chance of playing
 550,Jocelin.T,Sunderland,SUN,MID,4.9,0.2,1,0.041,0.0,3.0,0.0,1,,
+370,Chiesa,Liverpool,LIV,MID,5.3,0.2,1,0.038,0.0,3.0,1.0,1,100.0,
 309,Núñez,Ipswich Town,IPS,MID,4.8,0.18,6,0.038,0.0,3.0,0.0,1,,
-177,Kesler-Hayden,Coventry City,COV,DEF,3.9,0.17,1,0.044,0.0,2.0,1.0,1,100.0,
-21,Nørgaard,Everton,EVE,MID,4.8,0.17,0,0.035,0.0,4.0,0.0,1,100.0,
-612,Methalie,Sunderland,SUN,DEF,4.5,0.17,0,0.038,0.0,3.0,0.0,1,100.0,
 651,J.Angulo,Sunderland,SUN,FWD,4.5,0.17,1,0.038,0.0,3.0,0.0,1,,
+177,Kesler-Hayden,Coventry City,COV,DEF,3.9,0.17,1,0.044,0.0,2.0,1.0,1,100.0,
+612,Methalie,Sunderland,SUN,DEF,4.5,0.17,0,0.038,0.0,3.0,0.0,1,100.0,
+21,Nørgaard,Everton,EVE,MID,4.8,0.17,0,0.035,0.0,4.0,0.0,1,100.0,
 6,Saliba,Arsenal,ARS,DEF,5.9,0.16,0,0.027,0.0,3.0,0.0,1,100.0,
+594,David,Brighton,BHA,FWD,5.9,0.16,1,0.027,0.0,2.0,0.0,1,,
 636,Ángel,Fulham,FUL,MID,5.0,0.16,0,0.032,0.0,5.0,0.0,1,,
 66,Soler,Bournemouth,BOU,DEF,4.0,0.16,1,0.04,0.0,3.0,1.0,1,100.0,
-594,David,Brighton,BHA,FWD,5.9,0.16,1,0.027,0.0,2.0,0.0,1,,
 450,Livramento,Newcastle,NEW,DEF,4.8,0.15,4,0.031,0.0,4.0,1.0,1,100.0,
-126,O'Riley,Brighton,BHA,MID,5.4,0.14,2,0.026,0.0,2.0,0.0,1,,
 42,Guessand,Crystal Palace,CRY,MID,5.3,0.14,2,0.026,0.0,2.0,0.0,1,,
+126,O'Riley,Brighton,BHA,MID,5.4,0.14,2,0.026,0.0,2.0,0.0,1,,
 595,Gozo,Crystal Palace,CRY,MID,4.9,0.12,2,0.024,0.0,2.0,0.0,1,,
-608,Jebbison,Bournemouth,BOU,FWD,5.0,0.12,3,0.024,0.0,3.0,1.0,1,,
 600,Osman,Brighton,BHA,MID,4.9,0.12,3,0.024,0.0,2.0,0.0,1,,
+608,Jebbison,Bournemouth,BOU,FWD,5.0,0.12,3,0.024,0.0,3.0,1.0,1,,
 392,Aït-Nouri,Man City,MCI,DEF,5.1,0.11,0,0.022,0.0,2.0,1.0,1,,
-253,Andersen,Fulham,FUL,DEF,5.0,0.1,3,0.02,0.0,5.0,0.0,1,100.0,
 587,Rulli,Man City,MCI,GKP,4.9,0.1,0,0.02,0.0,2.0,1.0,1,,
-559,Bamba,Newcastle,NEW,MID,4.8,0.09,3,0.019,0.0,4.0,1.0,1,,
+253,Andersen,Fulham,FUL,DEF,5.0,0.1,3,0.02,0.0,5.0,0.0,1,100.0,
 3,Meslier,Arsenal,ARS,GKP,4.9,0.09,0,0.018,0.0,3.0,0.0,1,,
-323,McAteer,Ipswich Town,IPS,MID,4.3,0.09,3,0.021,0.0,3.0,0.0,1,,
 2,Arrizabalaga,Arsenal,ARS,GKP,4.9,0.09,0,0.018,0.0,3.0,0.0,1,,
 35,Bogarde,Aston Villa,AVL,MID,4.9,0.09,1,0.018,0.0,2.0,1.0,1,,
 351,Mamardashvili,Liverpool,LIV,GKP,4.8,0.09,0,0.019,0.0,3.0,1.0,1,,
-324,Mehmeti,Ipswich Town,IPS,MID,4.7,0.08,0,0.017,0.0,3.0,0.0,1,,
+559,Bamba,Newcastle,NEW,MID,4.8,0.09,3,0.019,0.0,4.0,1.0,1,,
+323,McAteer,Ipswich Town,IPS,MID,4.3,0.09,3,0.021,0.0,3.0,0.0,1,,
 218,Doucouré,Crystal Palace,CRY,MID,4.7,0.08,0,0.017,0.0,2.0,0.0,1,,
 374,Endo,Liverpool,LIV,MID,4.8,0.08,0,0.017,0.0,3.0,1.0,1,100.0,
-227,Travers,Everton,EVE,GKP,5.0,0.07,0,0.014,0.0,4.0,0.0,1,,
-83,Valdimarsson,Brentford,BRE,GKP,4.4,0.07,0,0.016,0.0,3.0,1.0,1,,
-416,De Ligt,Man Utd,MUN,DEF,4.9,0.07,0,0.014,0.0,4.0,0.0,1,100.0,
+324,Mehmeti,Ipswich Town,IPS,MID,4.7,0.08,0,0.017,0.0,3.0,0.0,1,,
 172,Wilson,Coventry City,COV,GKP,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
-50,Burrowes,Aston Villa,AVL,MID,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
-561,Anselmino,Chelsea,CHE,DEF,4.5,0.07,0,0.016,0.0,3.0,1.0,1,100.0,
 615,Di Gregorio,Bournemouth,BOU,GKP,4.5,0.07,0,0.016,0.0,3.0,1.0,1,,
-622,Braithwaite,Man City,MCI,DEF,3.9,0.07,1,0.018,0.0,2.0,1.0,1,,
-396,Vitor Reis,Man City,MCI,DEF,4.4,0.07,1,0.016,0.0,2.0,1.0,1,,
-92,Ji-soo,Brentford,BRE,DEF,4.4,0.07,0,0.016,0.0,3.0,1.0,1,,
+117,Coppola,Brighton,BHA,DEF,4.5,0.07,0,0.016,0.0,2.0,0.0,1,,
+672,Cissé,Aston Villa,AVL,DEF,4.5,0.07,0,0.016,0.0,2.0,1.0,1,,
 662,Nicoll-Jazuli,Chelsea,CHE,MID,4.5,0.07,1,0.016,0.0,3.0,1.0,1,,
+255,J.Cuenca,Fulham,FUL,DEF,4.4,0.07,3,0.016,0.0,5.0,0.0,1,,
+92,Ji-soo,Brentford,BRE,DEF,4.4,0.07,0,0.016,0.0,3.0,1.0,1,,
+524,Olusesi,Spurs,TOT,MID,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
+29,M.Bizot,Aston Villa,AVL,GKP,4.5,0.07,1,0.016,0.0,2.0,1.0,1,100.0,
+189,Shepherd,Coventry City,COV,MID,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
+442,Pope,Newcastle,NEW,GKP,4.8,0.07,0,0.015,0.0,4.0,1.0,1,,
 653,Samba,Man City,MCI,MID,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
 658,Ibrahim,Brighton,BHA,MID,4.5,0.07,0,0.016,0.0,2.0,0.0,1,,
-29,M.Bizot,Aston Villa,AVL,GKP,4.5,0.07,1,0.016,0.0,2.0,1.0,1,100.0,
-386,Bettinelli,Man City,MCI,GKP,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
-524,Olusesi,Spurs,TOT,MID,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
-672,Cissé,Aston Villa,AVL,DEF,4.5,0.07,0,0.016,0.0,2.0,1.0,1,,
+83,Valdimarsson,Brentford,BRE,GKP,4.4,0.07,0,0.016,0.0,3.0,1.0,1,,
 134,Oriola,Brighton,BHA,MID,4.4,0.07,0,0.016,0.0,2.0,0.0,1,,
-189,Shepherd,Coventry City,COV,MID,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
-221,Drakes-Thomas,Crystal Palace,CRY,MID,4.4,0.07,0,0.016,0.0,2.0,0.0,1,,
-117,Coppola,Brighton,BHA,DEF,4.5,0.07,0,0.016,0.0,2.0,0.0,1,,
+416,De Ligt,Man Utd,MUN,DEF,4.9,0.07,0,0.014,0.0,4.0,0.0,1,100.0,
+561,Anselmino,Chelsea,CHE,DEF,4.5,0.07,0,0.016,0.0,3.0,1.0,1,100.0,
 531,Ellborg,Sunderland,SUN,GKP,4.4,0.07,0,0.016,0.0,3.0,0.0,1,,
-442,Pope,Newcastle,NEW,GKP,4.8,0.07,0,0.015,0.0,4.0,1.0,1,,
-255,J.Cuenca,Fulham,FUL,DEF,4.4,0.07,3,0.016,0.0,5.0,0.0,1,,
+386,Bettinelli,Man City,MCI,GKP,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
+396,Vitor Reis,Man City,MCI,DEF,4.4,0.07,1,0.016,0.0,2.0,1.0,1,,
+50,Burrowes,Aston Villa,AVL,MID,4.4,0.07,0,0.016,0.0,2.0,1.0,1,,
+622,Braithwaite,Man City,MCI,DEF,3.9,0.07,1,0.018,0.0,2.0,1.0,1,,
+227,Travers,Everton,EVE,GKP,5.0,0.07,0,0.014,0.0,4.0,0.0,1,,
+221,Drakes-Thomas,Crystal Palace,CRY,MID,4.4,0.07,0,0.016,0.0,2.0,0.0,1,,
+434,J.Fletcher,Man Utd,MUN,MID,4.9,0.06,0,0.012,0.0,4.0,0.0,1,,
+179,Latibeaudiere,Coventry City,COV,DEF,3.9,0.06,1,0.015,0.0,2.0,1.0,1,,
+667,Wright,Aston Villa,AVL,GKP,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
+555,Matthews,Crystal Palace,CRY,GKP,4.0,0.06,0,0.015,0.0,2.0,0.0,1,,
+623,Bentley,Coventry City,COV,GKP,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
 574,Hjertø-Dahl,Hull City,HUL,MID,4.8,0.06,1,0.012,0.0,4.0,1.0,1,,
 497,Dubravka,Spurs,TOT,GKP,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
-495,Austin,Spurs,TOT,GKP,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
-555,Matthews,Crystal Palace,CRY,GKP,4.0,0.06,0,0.015,0.0,2.0,0.0,1,,
-509,Byfield,Spurs,TOT,DEF,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
-179,Latibeaudiere,Coventry City,COV,DEF,3.9,0.06,1,0.015,0.0,2.0,1.0,1,,
-169,Mheuka,Chelsea,CHE,FWD,4.5,0.06,0,0.013,0.0,3.0,1.0,1,,
-623,Bentley,Coventry City,COV,GKP,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
-606,Rowe,Aston Villa,AVL,DEF,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
-434,J.Fletcher,Man Utd,MUN,MID,4.9,0.06,0,0.012,0.0,4.0,0.0,1,,
-312,Taylor,Ipswich Town,IPS,MID,4.4,0.06,0,0.014,0.0,3.0,0.0,1,100.0,
 657,Nunes,Brentford,BRE,MID,4.5,0.06,0,0.013,0.0,3.0,1.0,1,,
-292,Ömür,Hull City,HUL,MID,4.8,0.06,0,0.012,0.0,4.0,1.0,1,,
-382,Danns,Liverpool,LIV,FWD,4.5,0.06,0,0.013,0.0,3.0,1.0,1,100.0,
-378,McConnell,Liverpool,LIV,MID,4.4,0.06,0,0.014,0.0,3.0,1.0,1,,
-667,Wright,Aston Villa,AVL,GKP,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
 178,Bidwell,Coventry City,COV,DEF,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
+606,Rowe,Aston Villa,AVL,DEF,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
+382,Danns,Liverpool,LIV,FWD,4.5,0.06,0,0.013,0.0,3.0,1.0,1,100.0,
+169,Mheuka,Chelsea,CHE,FWD,4.5,0.06,0,0.013,0.0,3.0,1.0,1,,
+509,Byfield,Spurs,TOT,DEF,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
+292,Ömür,Hull City,HUL,MID,4.8,0.06,0,0.012,0.0,4.0,1.0,1,,
+671,Gunter,Spurs,TOT,GKP,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
+495,Austin,Spurs,TOT,GKP,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
+378,McConnell,Liverpool,LIV,MID,4.4,0.06,0,0.014,0.0,3.0,1.0,1,,
+312,Taylor,Ipswich Town,IPS,MID,4.4,0.06,0,0.014,0.0,3.0,0.0,1,100.0,
 510,Rowswell,Spurs,TOT,DEF,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
 111,Steele,Brighton,BHA,GKP,4.0,0.06,0,0.015,0.0,2.0,0.0,1,,
-671,Gunter,Spurs,TOT,GKP,4.0,0.06,0,0.015,0.0,2.0,1.0,1,,
 669,Sharman-Lowe,Chelsea,CHE,GKP,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
 352,Woodman,Liverpool,LIV,GKP,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
-308,Furlong,Ipswich Town,IPS,DEF,3.9,0.05,1,0.013,0.0,3.0,0.0,1,,
-302,Button,Ipswich Town,IPS,GKP,4.0,0.05,0,0.012,0.0,3.0,0.0,1,,
-301,Palmer,Ipswich Town,IPS,GKP,4.0,0.05,0,0.012,0.0,3.0,0.0,1,,
 660,Fredrick,Brentford,BRE,DEF,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
-361,Lucky,Liverpool,LIV,DEF,3.9,0.05,0,0.013,0.0,3.0,1.0,1,,
-325,Darlow,Man Utd,MUN,GKP,4.5,0.05,0,0.011,0.0,4.0,0.0,1,100.0,
-670,Subuloye,Chelsea,CHE,DEF,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
-228,King,Everton,EVE,GKP,4.5,0.05,0,0.011,0.0,4.0,0.0,1,,
-58,Forster,Bournemouth,BOU,GKP,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
-590,Benda,Nott'm Forest,NFO,GKP,4.5,0.05,0,0.011,0.0,4.0,0.0,1,,
-443,Gillespie,Newcastle,NEW,GKP,4.5,0.05,0,0.011,0.0,4.0,1.0,1,,
-303,Kipré,Ipswich Town,IPS,DEF,3.9,0.05,0,0.013,0.0,3.0,0.0,1,,
-661,Balcombe,Brentford,BRE,GKP,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
 355,Davies,Liverpool,LIV,GKP,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
-468,John,Nott'm Forest,NFO,GKP,4.4,0.05,0,0.011,0.0,4.0,0.0,1,,
+325,Darlow,Man Utd,MUN,GKP,4.5,0.05,0,0.011,0.0,4.0,0.0,1,100.0,
+443,Gillespie,Newcastle,NEW,GKP,4.5,0.05,0,0.011,0.0,4.0,1.0,1,,
+670,Subuloye,Chelsea,CHE,DEF,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
+361,Lucky,Liverpool,LIV,DEF,3.9,0.05,0,0.013,0.0,3.0,1.0,1,,
+301,Palmer,Ipswich Town,IPS,GKP,4.0,0.05,0,0.012,0.0,3.0,0.0,1,,
+303,Kipré,Ipswich Town,IPS,DEF,3.9,0.05,0,0.013,0.0,3.0,0.0,1,,
+590,Benda,Nott'm Forest,NFO,GKP,4.5,0.05,0,0.011,0.0,4.0,0.0,1,,
+228,King,Everton,EVE,GKP,4.5,0.05,0,0.011,0.0,4.0,0.0,1,,
 274,Butland,Hull City,HUL,GKP,4.4,0.05,0,0.011,0.0,4.0,1.0,1,100.0,
+661,Balcombe,Brentford,BRE,GKP,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
+58,Forster,Bournemouth,BOU,GKP,4.0,0.05,0,0.012,0.0,3.0,1.0,1,,
+302,Button,Ipswich Town,IPS,GKP,4.0,0.05,0,0.012,0.0,3.0,0.0,1,,
+468,John,Nott'm Forest,NFO,GKP,4.4,0.05,0,0.011,0.0,4.0,0.0,1,,
+308,Furlong,Ipswich Town,IPS,DEF,3.9,0.05,1,0.013,0.0,3.0,0.0,1,,
+659,Miley,Newcastle,NEW,MID,4.5,0.04,0,0.009,0.0,4.0,1.0,1,,
 665,Mills,Newcastle,NEW,MID,4.5,0.04,0,0.009,0.0,4.0,1.0,1,,
 666,Thompson,Newcastle,NEW,MID,4.5,0.04,0,0.009,0.0,4.0,1.0,1,,
-414,Heaton,Man Utd,MUN,GKP,4.0,0.04,0,0.01,0.0,4.0,0.0,1,100.0,
-663,Pivas,Newcastle,NEW,DEF,4.0,0.04,0,0.01,0.0,4.0,1.0,1,,
 654,Graham,Everton,EVE,MID,4.4,0.04,0,0.009,0.0,4.0,0.0,1,,
-288,Dowell,Hull City,HUL,MID,4.3,0.04,0,0.009,0.0,4.0,1.0,1,,
-659,Miley,Newcastle,NEW,MID,4.5,0.04,0,0.009,0.0,4.0,1.0,1,,
-438,Fletcher,Man Utd,MUN,MID,4.4,0.04,0,0.009,0.0,4.0,0.0,1,,
-284,McCarthy,Hull City,HUL,DEF,4.0,0.04,0,0.01,0.0,4.0,1.0,1,,
-285,McNair,Hull City,HUL,DEF,3.9,0.04,1,0.01,0.0,4.0,1.0,1,100.0,
-476,O.Richards,Nott'm Forest,NFO,DEF,3.9,0.04,0,0.01,0.0,4.0,0.0,1,,
-604,Cresswell,Leeds,LEE,MID,4.5,0.04,0,0.009,0.0,4.0,0.0,1,,
-294,Zambrano,Hull City,HUL,MID,4.4,0.04,0,0.009,0.0,4.0,1.0,1,100.0,
-437,Bendito Mantato,Man Utd,MUN,MID,4.4,0.04,0,0.009,0.0,4.0,0.0,1,,
 424,Amass,Man Utd,MUN,DEF,3.9,0.04,0,0.01,0.0,4.0,0.0,1,,
+437,Bendito Mantato,Man Utd,MUN,MID,4.4,0.04,0,0.009,0.0,4.0,0.0,1,,
+414,Heaton,Man Utd,MUN,GKP,4.0,0.04,0,0.01,0.0,4.0,0.0,1,100.0,
+438,Fletcher,Man Utd,MUN,MID,4.4,0.04,0,0.009,0.0,4.0,0.0,1,,
 629,Zetterer,Leeds,LEE,GKP,4.0,0.04,0,0.01,0.0,4.0,0.0,1,,
 625,Cairns,Leeds,LEE,GKP,4.0,0.04,0,0.01,0.0,4.0,0.0,1,,
-273,Phillips,Hull City,HUL,GKP,4.0,0.04,0,0.01,0.0,4.0,1.0,1,,
+476,O.Richards,Nott'm Forest,NFO,DEF,3.9,0.04,0,0.01,0.0,4.0,0.0,1,,
+294,Zambrano,Hull City,HUL,MID,4.4,0.04,0,0.009,0.0,4.0,1.0,1,100.0,
 603,Lienou,Leeds,LEE,DEF,4.0,0.04,0,0.01,0.0,4.0,0.0,1,,
+604,Cresswell,Leeds,LEE,MID,4.5,0.04,0,0.009,0.0,4.0,0.0,1,,
+288,Dowell,Hull City,HUL,MID,4.3,0.04,0,0.009,0.0,4.0,1.0,1,,
+284,McCarthy,Hull City,HUL,DEF,4.0,0.04,0,0.01,0.0,4.0,1.0,1,,
+285,McNair,Hull City,HUL,DEF,3.9,0.04,1,0.01,0.0,4.0,1.0,1,100.0,
+273,Phillips,Hull City,HUL,GKP,4.0,0.04,0,0.01,0.0,4.0,1.0,1,,
 664,Salia,Newcastle,NEW,FWD,4.5,0.04,0,0.009,0.0,4.0,1.0,1,,
-297,Gyabi,Hull City,HUL,MID,4.4,0.03,0,0.007,0.0,4.0,1.0,1,75.0,Thigh injury - 75% chance of playing
-626,Zepa,Fulham,FUL,MID,4.4,0.03,0,0.007,0.0,5.0,0.0,1,,
-272,Kusi-Asare,Fulham,FUL,FWD,4.3,0.03,0,0.007,0.0,5.0,0.0,1,,
-251,Lecomte,Fulham,FUL,GKP,4.0,0.03,0,0.008,0.0,5.0,0.0,1,,
+663,Pivas,Newcastle,NEW,DEF,4.0,0.04,0,0.01,0.0,4.0,1.0,1,,
 270,Reed,Fulham,FUL,MID,4.3,0.03,0,0.007,0.0,5.0,0.0,1,,
+626,Zepa,Fulham,FUL,MID,4.4,0.03,0,0.007,0.0,5.0,0.0,1,,
+297,Gyabi,Hull City,HUL,MID,4.4,0.03,0,0.007,0.0,4.0,1.0,1,75.0,Thigh injury - 75% chance of playing
+251,Lecomte,Fulham,FUL,GKP,4.0,0.03,0,0.008,0.0,5.0,0.0,1,,
+272,Kusi-Asare,Fulham,FUL,FWD,4.3,0.03,0,0.007,0.0,5.0,0.0,1,,
 103,Dasilva,Brentford,BRE,MID,4.8,0.02,0,0.004,0.0,3.0,1.0,1,25.0,Hamstring injury - 25% chance of playing
-139,Ferguson,Brighton,BHA,FWD,4.9,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Ankle injury - Unknown return date
-137,Tzimas,Brighton,BHA,FWD,5.4,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Knee injury - Unknown return date
-89,Henry,Brentford,BRE,DEF,4.4,0.0,1,0.0,0.0,3.0,1.0,1,0.0,Hip injury - Unknown return date
 121,Mitoma,Brighton,BHA,MID,5.9,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Hamstring injury - Expected back 22 Nov
-12,Saka,Arsenal,ARS,MID,9.4,0.0,37,0.0,0.0,3.0,0.0,1,0.0,Thigh injury - Unknown return date
-118,Igor,Brighton,BHA,DEF,4.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Burnley permanently
-141,Jörgensen,Chelsea,CHE,GKP,5.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined RC Strasbourg on loan for the rest of the season
-140,Sánchez,Chelsea,CHE,GKP,4.9,0.0,2,0.0,0.0,3.0,1.0,1,0.0,Has joined Como on loan for the rest of the season
-132,Howell,Brighton,BHA,MID,4.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Leicester City on loan for the rest of the season
-131,Baleba,Man Utd,MUN,MID,4.9,0.0,8,0.0,1.0,4.0,0.0,1,0.0,Hamstring injury - Unknown return date
-128,Buonanotte,Brighton,BHA,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Elche on loan for the rest of the season
-219,J.Rak-Sakyi,Crystal Palace,CRY,MID,4.9,0.0,0,0.0,0.0,2.0,0.0,1,0.0,has joined  Kasimpasa on loan for the rest of the seaon.
-217,M.França,Crystal Palace,CRY,MID,4.9,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Alverca on loan for the rest of the season
-528,Scarlett,Spurs,TOT,FWD,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Leyton Orient permanently
-527,Richarlison,Spurs,TOT,FWD,5.9,0.0,2,0.0,0.0,2.0,1.0,1,0.0,not included in squad.
-363,Leoni,Liverpool,LIV,DEF,3.9,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
-360,Bradley,Liverpool,LIV,DEF,4.9,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
-328,Struijk,Brighton,BHA,DEF,4.9,0.0,5,0.0,0.0,2.0,0.0,1,0.0,Hamstring injury - Expected back 8 Nov
-326,Perri,Leeds,LEE,GKP,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Torino on loan for the rest of the season
-322,Al-Hamadi,Ipswich Town,IPS,FWD,5.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Sheffield Wednesday on loan for the rest of the season
-547,Mundle,Sunderland,SUN,MID,4.8,0.0,1,0.0,0.0,3.0,0.0,1,0.0,Knee injury - Unknown return date
-546,Adingra,Sunderland,SUN,MID,4.9,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Ajax on loan for the rest of the season
-543,Diarra,Sunderland,SUN,MID,5.3,0.0,7,0.0,0.33,3.0,0.0,1,0.0,Muscular injury - Unknown return date
-540,Masuaku,Sunderland,SUN,DEF,4.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Konyaspor permanently
-538,Hjelde,Sunderland,SUN,DEF,4.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined KV Mechelen on loan for the rest of the season
-537,Seelt,Sunderland,SUN,DEF,4.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Swansea City on loan for the rest of the season
-532,Ballard,Sunderland,SUN,DEF,4.7,0.0,14,0.0,0.0,3.0,0.0,1,0.0,Hamstring injury - Unknown return date
-208,Sarr,Crystal Palace,CRY,MID,6.2,0.0,2,0.0,0.0,2.0,0.0,1,0.0,Groin injury - Expected back 21 Nov
-206,Chadi Riad,Crystal Palace,CRY,DEF,4.3,0.0,1,0.0,0.0,2.0,0.0,1,0.0,Knee injury - Unknown return date
-205,Sosa,Crystal Palace,CRY,DEF,4.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined FC Cologne on loan for the rest of the season
-235,Aznou,Everton,EVE,DEF,4.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Malaga on loan for the rest of the season
-234,Patterson,Everton,EVE,DEF,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Torino permanently
-319,Szmodics,Ipswich Town,IPS,MID,5.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Derby County on loan for the rest of the season
-523,Moore,Spurs,TOT,MID,5.0,0.0,3,0.0,0.0,2.0,1.0,1,0.0,Has joined FC Köln on loan for the rest of the season
-342,Harrison,Leeds,LEE,MID,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined New England Revolution permanently
-341,Gnonto,Leeds,LEE,MID,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined ACF Fiorentina on loan for the rest of the season
-99,Milambo,Brentford,BRE,MID,5.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
+76,Tóth.A,Bournemouth,BOU,MID,4.9,0.0,2,0.0,0.0,3.0,1.0,1,0.0,Hamstring injury - Unknown return date
 80,Enes Ünal,Bournemouth,BOU,FWD,5.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Getafe permanently
-135,Yohanna,Brighton,BHA,MID,4.8,0.0,1,0.0,0.0,2.0,0.0,1,0.0,Unspecified injury - Expected back 22 Nov
-133,Watson,Brighton,BHA,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Leicester City on loan for the rest of the season
-220,Cardines,Crystal Palace,CRY,DEF,4.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Bristol City on loan for the rest of the season
-223,Mateta,Crystal Palace,CRY,FWD,6.3,0.0,3,0.0,0.0,2.0,0.0,1,0.0,Suspended until 2 Dec
-225,Uche,Crystal Palace,CRY,FWD,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,has returned to Getafe CF
+100,Carvalho,Brentford,BRE,MID,5.0,0.0,6,0.0,0.0,3.0,1.0,1,0.0,Knock - Expected back 23 Nov
+106,Thiago,Brentford,BRE,FWD,7.8,0.0,30,0.0,4.0,3.0,1.0,1,0.0,Suspended until 5 Dec
+107,Furo,Brentford,BRE,FWD,4.4,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Unspecified injury - Unknown return date
+118,Igor,Brighton,BHA,DEF,4.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Burnley permanently
+12,Saka,Arsenal,ARS,MID,9.4,0.0,37,0.0,0.0,3.0,0.0,1,0.0,Thigh injury - Unknown return date
+513,Xavi,Spurs,TOT,MID,5.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
 517,Odobert,Spurs,TOT,MID,5.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
 518,P.M.Sarr,Spurs,TOT,MID,4.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Juventus on loan for the rest of the season
 520,Bergvall,Spurs,TOT,MID,5.3,0.0,6,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
-196,Markelo,Coventry City,COV,FWD,5.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Shabab Al-Ahli Dubai permanently
-22,Nwaneri,Arsenal,ARS,MID,5.4,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Borussia Dortmund on loan for the rest of the season
-187,Eccles,Coventry City,COV,MID,4.8,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Ankle injury - Unknown return date
-556,Targett,Hull City,HUL,DEF,3.9,0.0,1,0.0,0.0,4.0,1.0,1,0.0,Ankle injury - Unknown return date
-485,Bakwa,Nott'm Forest,NFO,MID,5.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Lille on loan for the rest of the season
-484,Hutchinson,Nott'm Forest,NFO,MID,5.4,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined AC Milan on loan for the rest of the season
-48,Onana,Aston Villa,AVL,MID,4.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
-200,Lacroix,Chelsea,CHE,DEF,5.8,0.0,24,0.0,1.0,3.0,1.0,1,0.0,Hamstring injury - Unknown return date
-20,Dowman,Arsenal,ARS,MID,5.3,0.0,2,0.0,0.33,3.0,0.0,1,0.0,Suspended until 29 Nov
+523,Moore,Spurs,TOT,MID,5.0,0.0,3,0.0,0.0,2.0,1.0,1,0.0,Has joined FC Köln on loan for the rest of the season
+527,Richarlison,Spurs,TOT,FWD,5.9,0.0,2,0.0,0.0,2.0,1.0,1,0.0,not included in squad.
+528,Scarlett,Spurs,TOT,FWD,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Leyton Orient permanently
 530,Patterson,Sunderland,SUN,GKP,4.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Wrexham permanently
-511,Souza,Spurs,TOT,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined FC Porto on loan for the rest of the season
-507,Phillips,Spurs,TOT,DEF,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Middlesbrough permanently
-505,Spence,Spurs,TOT,DEF,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Internazionale permanently
-24,Nelson,Arsenal,ARS,MID,5.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,has departed the club as a free agent.
-554,Van Oevelen,Ipswich Town,IPS,GKP,4.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Valencia on loan for the rest of the season
-55,Watkins,Aston Villa,AVL,FWD,7.8,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Al Hilal permanently
-174,Kitching,Coventry City,COV,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Sheffield United on loan for the rest of the season
-171,Dovin,Coventry City,COV,GKP,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,not included in squad.
-573,Sanchez,Bournemouth,BOU,DEF,4.4,0.0,1,0.0,0.0,3.0,1.0,1,0.0,Ankle injury - Unknown return date
-563,Morita,Hull City,HUL,MID,4.9,0.0,5,0.0,0.67,4.0,1.0,1,0.0,Groin injury - Unknown return date
-470,Morato,Nott'm Forest,NFO,DEF,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined West Ham on loan for the rest of the season
-466,Neave,Newcastle,NEW,FWD,4.5,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Wolves on loan for the rest of the season
-23,Fábio Vieira,Arsenal,ARS,MID,5.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Hamburger SV permanently
-193,Wright,Coventry City,COV,FWD,5.3,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Thigh injury - Unknown return date
-192,Andrews,Coventry City,COV,MID,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Oxford United on loan for the rest of the season
-191,Borges Rodrigues,Coventry City,COV,MID,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Burton Albion on loan for the rest of the season
+475,Savona,Nott'm Forest,NFO,DEF,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Knee injury - Unknown return date
+477,Abbott,Nott'm Forest,NFO,DEF,4.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Southampton on loan for the rest of the season
+479,Bindon,Nott'm Forest,NFO,DEF,4.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Charlton Athletic on loan for the rest of the season
+48,Onana,Aston Villa,AVL,MID,4.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
+484,Hutchinson,Nott'm Forest,NFO,MID,5.4,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined AC Milan on loan for the rest of the season
+485,Bakwa,Nott'm Forest,NFO,MID,5.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Lille on loan for the rest of the season
+487,Dominguez,Nott'm Forest,NFO,MID,4.8,0.0,4,0.0,0.0,4.0,0.0,1,0.0,Muscular injury - Expected back 30 Dec
 49,Iling Jr,Aston Villa,AVL,MID,5.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Bolton Wanderers on loan for the rest of the season
 494,Vicario,Spurs,TOT,GKP,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Juventus on loan for the rest of the season
 500,Romero,Spurs,TOT,DEF,5.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Atletico Madrid permanently
-477,Abbott,Nott'm Forest,NFO,DEF,4.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Southampton on loan for the rest of the season
-475,Savona,Nott'm Forest,NFO,DEF,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Knee injury - Unknown return date
-252,McNally,Fulham,FUL,GKP,4.0,0.0,0,0.0,0.0,5.0,0.0,1,0.0,Has joined York City on loan for the rest of the season
-248,Beto,Everton,EVE,FWD,5.4,0.0,2,0.0,0.0,4.0,0.0,1,0.0,Has joined Fiorentina permanently
-487,Dominguez,Nott'm Forest,NFO,MID,4.8,0.0,4,0.0,0.0,4.0,0.0,1,0.0,Muscular injury - Expected back 30 Dec
-197,Bassette,Coventry City,COV,FWD,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined KVC Westerlo on loan for the rest of the season
-59,Dennis,Bournemouth,BOU,GKP,4.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined MK Dons permanently
-577,Tomiyasu,Crystal Palace,CRY,DEF,4.3,0.0,3,0.0,0.0,2.0,0.0,1,0.0,Calf injury - Expected back 21 Nov
-578,Mudryk,Spurs,TOT,MID,5.3,0.0,1,0.0,0.0,2.0,1.0,1,0.0,Ankle injury - Unknown return date
-182,Amenda,Coventry City,COV,DEF,3.9,0.0,4,0.0,0.0,2.0,1.0,1,0.0,Calf injury - Unknown return date
-44,Bailey,Aston Villa,AVL,MID,5.4,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Olympiakos permanently
-439,Šeško,Man Utd,MUN,FWD,6.9,0.0,8,0.0,0.0,4.0,0.0,1,0.0,Shin injury - Unknown return date
-479,Bindon,Nott'm Forest,NFO,DEF,4.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Charlton Athletic on loan for the rest of the season
+532,Ballard,Sunderland,SUN,DEF,4.7,0.0,14,0.0,0.0,3.0,0.0,1,0.0,Hamstring injury - Unknown return date
+537,Seelt,Sunderland,SUN,DEF,4.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Swansea City on loan for the rest of the season
+538,Hjelde,Sunderland,SUN,DEF,4.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined KV Mechelen on loan for the rest of the season
+540,Masuaku,Sunderland,SUN,DEF,4.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Konyaspor permanently
+543,Diarra,Sunderland,SUN,MID,5.3,0.0,7,0.0,0.33,3.0,0.0,1,0.0,Muscular injury - Unknown return date
+546,Adingra,Sunderland,SUN,MID,4.9,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Ajax on loan for the rest of the season
+547,Mundle,Sunderland,SUN,MID,4.8,0.0,1,0.0,0.0,3.0,0.0,1,0.0,Knee injury - Unknown return date
+55,Watkins,Aston Villa,AVL,FWD,7.8,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Al Hilal permanently
+554,Van Oevelen,Ipswich Town,IPS,GKP,4.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Valencia on loan for the rest of the season
+89,Henry,Brentford,BRE,DEF,4.4,0.0,1,0.0,0.0,3.0,1.0,1,0.0,Hip injury - Unknown return date
+99,Milambo,Brentford,BRE,MID,5.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
+505,Spence,Spurs,TOT,DEF,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Internazionale permanently
+507,Phillips,Spurs,TOT,DEF,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Middlesbrough permanently
+511,Souza,Spurs,TOT,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined FC Porto on loan for the rest of the season
+466,Neave,Newcastle,NEW,FWD,4.5,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Wolves on loan for the rest of the season
 463,Woltemade,Newcastle,NEW,FWD,5.9,0.0,4,0.0,0.0,4.0,1.0,1,0.0,Has joined Juventus on loan for the rest of the season
-27,G.Jesus,Arsenal,ARS,FWD,5.9,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined FC Barcelona permanently
 458,Joelinton,Newcastle,NEW,MID,5.4,0.0,6,0.0,1.67,4.0,1.0,1,0.0,Unspecified injury - Unknown return date
-266,Cairney,Fulham,FUL,MID,4.9,0.0,2,0.0,0.33,5.0,0.0,1,0.0,Knee injury - Expected back 21 Nov
-181,Brau,Coventry City,COV,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Academico de Viseu on loan for the rest of the season
-180,Woolfenden,Coventry City,COV,DEF,3.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
-18,Martinelli,Arsenal,ARS,MID,6.3,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Al Hilal permanently
 451,A.Murphy,Newcastle,NEW,DEF,4.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined FC Kaiserslautern on loan for the rest of the season
-607,Lynch,Aston Villa,AVL,MID,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Oxford United on loan until January
-168,Marc Guiu,Chelsea,CHE,FWD,5.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined RB Leipzig permanently
-163,D.Essugo,Chelsea,CHE,MID,4.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined RC Strasbourg on loan for the rest of the season
-165,João Pedro,Chelsea,CHE,FWD,7.6,0.0,47,0.0,0.0,3.0,1.0,1,0.0,Thigh injury - Unknown return date
-158,Gittens,Chelsea,CHE,MID,5.8,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Ankle injury - Unknown return date
-216,Esse,Crystal Palace,CRY,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Millwall on loan for the rest of the season
-215,Devenny,Crystal Palace,CRY,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Stoke City permanently
-513,Xavi,Spurs,TOT,MID,5.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
-296,Akintola,Hull City,HUL,MID,5.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Omonoia FC permanently
-298,Destan,Hull City,HUL,FWD,4.5,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Konyaspor permanently
-602,Humphreys,Ipswich Town,IPS,MID,4.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Huddersfield Town on loan for the rest of the season
-278,Hughes,Hull City,HUL,DEF,3.9,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Groin injury - Unknown return date
-276,Lo-Tutala,Hull City,HUL,GKP,4.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Colchester United on loan for the rest of the season
-275,Cartwright,Hull City,HUL,GKP,4.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Grimsby Town on loan for the rest of the season
-444,Jaouen,Newcastle,NEW,GKP,4.4,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Hamstring injury - Unknown return date
-283,Jacob,Hull City,HUL,DEF,4.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Newport County on loan until January
-441,Obi,Man Utd,MUN,FWD,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Willem II on loan for the rest of the season
-596,Ruggeri,Aston Villa,AVL,DEF,4.4,0.0,6,0.0,0.0,2.0,1.0,1,0.0,Hamstring injury - Expected back 2 Jan
-63,Milosavljević,Bournemouth,BOU,DEF,4.9,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Thigh injury - Expected back 31 Oct
-624,Cozier-Duberry,Brighton,BHA,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Middlesbrough on loan for the rest of the season
-365,Ramsay,Liverpool,LIV,DEF,4.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined St Mirren on loan for the rest of the season
-293,Kamara,Hull City,HUL,MID,5.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Portsmouth permanently
-436,Collyer,Man Utd,MUN,MID,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined West Brom permanently
-281,Drameh,Hull City,HUL,DEF,4.0,0.0,2,0.0,0.0,4.0,1.0,1,0.0,Has joined Genoa permanently
-429,Rashford,Man Utd,MUN,MID,6.8,0.0,11,0.0,0.0,4.0,0.0,1,0.0,Hip injury - Unknown return date
+556,Targett,Hull City,HUL,DEF,3.9,0.0,1,0.0,0.0,4.0,1.0,1,0.0,Ankle injury - Unknown return date
+470,Morato,Nott'm Forest,NFO,DEF,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined West Ham on loan for the rest of the season
 425,Fredricson,Man Utd,MUN,DEF,4.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Lausanne-Sport permanently
 423,Shaw,Man Utd,MUN,DEF,4.2,0.0,12,0.0,0.0,4.0,0.0,1,0.0,Unspecified injury - Unknown return date
-30,Digne,Aston Villa,AVL,DEF,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Paris Saint-Germain permanently
-299,Burstow,Hull City,HUL,FWD,4.5,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Sheffield Wednesday on loan for the rest of the season
-610,De Fougerolles,Fulham,FUL,DEF,4.0,0.0,0,0.0,0.0,5.0,0.0,1,0.0,has joined  Real Salt Lake on loan for the rest of the seaon.
-609,Shahar,Newcastle,NEW,DEF,4.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,has joined Arouca on loan for the rest of the seaon.
-632,Ansah,Hull City,HUL,FWD,4.9,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Back injury - Unknown return date
-150,M.Sarr,Chelsea,CHE,DEF,4.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Real Sociedad on loan for the rest of the season
-148,Hato,Chelsea,CHE,DEF,4.5,0.0,25,0.0,2.0,3.0,1.0,1,0.0,Unspecified injury - Unknown return date
-146,B.Badiashile,Chelsea,CHE,DEF,4.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Napoli on loan for the rest of the season
-404,Reijnders,Man City,MCI,MID,6.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Al Qadsiah permanently
-403,Sávio,Spurs,TOT,MID,6.4,0.0,10,0.0,0.0,2.0,1.0,1,0.0,Muscular injury - Expected back 21 Nov
-402,Rodrigo,Man City,MCI,MID,6.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Barcelona permanently
-383,Elliott,Liverpool,LIV,MID,5.4,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Valencia on loan for the rest of the season
+441,Obi,Man Utd,MUN,FWD,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Willem II on loan for the rest of the season
+444,Jaouen,Newcastle,NEW,GKP,4.4,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Hamstring injury - Unknown return date
+39,Nedeljkovic,Aston Villa,AVL,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Rangers on loan for the rest of the season
+394,Alleyne,Man City,MCI,DEF,5.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Burnley on loan for the rest of the season
 433,Ugarte,Man Utd,MUN,MID,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Knee injury - Unknown return date
+436,Collyer,Man Utd,MUN,MID,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined West Brom permanently
+439,Šeško,Man Utd,MUN,FWD,6.9,0.0,8,0.0,0.0,4.0,0.0,1,0.0,Shin injury - Unknown return date
+429,Rashford,Man Utd,MUN,MID,6.8,0.0,11,0.0,0.0,4.0,0.0,1,0.0,Hip injury - Unknown return date
+407,Echeverri,Man City,MCI,MID,4.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Benfica on loan for the rest of the season
+408,Phillips,Man City,MCI,MID,5.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Sheffield United on loan for the rest of the season
+409,Mukasa,Man City,MCI,MID,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,has joined West Ham on loan for the rest of the seaon.
+410,Monga,Man City,MCI,MID,4.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Swansea City on loan for the rest of the season
+413,Bayindir,Man Utd,MUN,GKP,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Celta Vigo on loan for the rest of the season
+563,Morita,Hull City,HUL,MID,4.9,0.0,5,0.0,0.67,4.0,1.0,1,0.0,Groin injury - Unknown return date
+573,Sanchez,Bournemouth,BOU,DEF,4.4,0.0,1,0.0,0.0,3.0,1.0,1,0.0,Ankle injury - Unknown return date
+577,Tomiyasu,Crystal Palace,CRY,DEF,4.3,0.0,3,0.0,0.0,2.0,0.0,1,0.0,Calf injury - Expected back 21 Nov
+578,Mudryk,Spurs,TOT,MID,5.3,0.0,1,0.0,0.0,2.0,1.0,1,0.0,Ankle injury - Unknown return date
+360,Bradley,Liverpool,LIV,DEF,4.9,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
+363,Leoni,Liverpool,LIV,DEF,3.9,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
+365,Ramsay,Liverpool,LIV,DEF,4.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined St Mirren on loan for the rest of the season
+397,Semenyo,Man City,MCI,MID,8.2,0.0,37,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
+402,Rodrigo,Man City,MCI,MID,6.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Barcelona permanently
+403,Sávio,Spurs,TOT,MID,6.4,0.0,10,0.0,0.0,2.0,1.0,1,0.0,Muscular injury - Expected back 21 Nov
+44,Bailey,Aston Villa,AVL,MID,5.4,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Olympiakos permanently
 380,Ekitiké,Liverpool,LIV,FWD,7.4,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Achilles injury - Unknown return date
-38,A.García,Aston Villa,AVL,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Getafe on loan for the rest of the season
+383,Elliott,Liverpool,LIV,MID,5.4,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Valencia on loan for the rest of the season
+341,Gnonto,Leeds,LEE,MID,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined ACF Fiorentina on loan for the rest of the season
+333,Bornauw,Leeds,LEE,DEF,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Hamburg SV on loan for the rest of the season
+348,Piroe,Leeds,LEE,FWD,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined West Ham United on loan for the rest of the season
+349,Mateo Joseph,Leeds,LEE,FWD,4.4,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Knee injury - Unknown return date
+353,Pecsi,Liverpool,LIV,GKP,4.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined TSV Hartberg on loan for the rest of the season
+342,Harrison,Leeds,LEE,MID,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined New England Revolution permanently
+357,Frimpong,Liverpool,LIV,DEF,5.2,0.0,4,0.0,0.0,3.0,1.0,1,0.0,Hamstring injury - Unknown return date
+307,Johnson,Ipswich Town,IPS,DEF,4.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Stoke City on loan for the rest of the season
+311,Burns,Ipswich Town,IPS,MID,5.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Leicester City permanently
+314,Ogbene,Ipswich Town,IPS,MID,4.9,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Lincoln City on loan until January
+317,Hirst,Ipswich Town,IPS,FWD,5.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Stoke City permanently
+319,Szmodics,Ipswich Town,IPS,MID,5.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Derby County on loan for the rest of the season
+322,Al-Hamadi,Ipswich Town,IPS,FWD,5.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Sheffield Wednesday on loan for the rest of the season
+354,Jaros,Liverpool,LIV,GKP,4.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
+326,Perri,Leeds,LEE,GKP,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Torino on loan for the rest of the season
+328,Struijk,Brighton,BHA,DEF,4.9,0.0,5,0.0,0.0,2.0,0.0,1,0.0,Hamstring injury - Expected back 8 Nov
+596,Ruggeri,Aston Villa,AVL,DEF,4.4,0.0,6,0.0,0.0,2.0,1.0,1,0.0,Hamstring injury - Expected back 2 Jan
+59,Dennis,Bournemouth,BOU,GKP,4.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined MK Dons permanently
+602,Humphreys,Ipswich Town,IPS,MID,4.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Huddersfield Town on loan for the rest of the season
+607,Lynch,Aston Villa,AVL,MID,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Oxford United on loan until January
+609,Shahar,Newcastle,NEW,DEF,4.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,has joined Arouca on loan for the rest of the seaon.
+610,De Fougerolles,Fulham,FUL,DEF,4.0,0.0,0,0.0,0.0,5.0,0.0,1,0.0,has joined  Real Salt Lake on loan for the rest of the seaon.
+275,Cartwright,Hull City,HUL,GKP,4.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Grimsby Town on loan for the rest of the season
+276,Lo-Tutala,Hull City,HUL,GKP,4.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Colchester United on loan for the rest of the season
+278,Hughes,Hull City,HUL,DEF,3.9,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Groin injury - Unknown return date
+281,Drameh,Hull City,HUL,DEF,4.0,0.0,2,0.0,0.0,4.0,1.0,1,0.0,Has joined Genoa permanently
 373,C.Jones,Liverpool,LIV,MID,5.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Internazionale permanently
 376,Bajcetic,Liverpool,LIV,MID,5.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Celta Vigo permanently
-143,Chalobah,Chelsea,CHE,DEF,5.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Como permanently
-142,James,Chelsea,CHE,DEF,5.2,0.0,3,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
-652,Azeez,Brighton,BHA,MID,5.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Hamstring injury - Expected back 8 Nov
-65,J.Araujo,Bournemouth,BOU,DEF,4.4,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Thigh injury - Unknown return date
-76,Tóth.A,Bournemouth,BOU,MID,4.9,0.0,2,0.0,0.0,3.0,1.0,1,0.0,Hamstring injury - Unknown return date
+38,A.García,Aston Villa,AVL,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Getafe on loan for the rest of the season
+404,Reijnders,Man City,MCI,MID,6.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Al Qadsiah permanently
+293,Kamara,Hull City,HUL,MID,5.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Portsmouth permanently
 291,Matazo,Hull City,HUL,MID,4.5,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Knee injury - Unknown return date
 287,Millar,Hull City,HUL,MID,5.0,0.0,6,0.0,0.0,4.0,1.0,1,0.0,Has joined Birmingham on loan for the rest of the season
-413,Bayindir,Man Utd,MUN,GKP,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Celta Vigo on loan for the rest of the season
-410,Monga,Man City,MCI,MID,4.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Swansea City on loan for the rest of the season
-409,Mukasa,Man City,MCI,MID,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,has joined West Ham on loan for the rest of the seaon.
-408,Phillips,Man City,MCI,MID,5.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Sheffield United on loan for the rest of the season
-407,Echeverri,Man City,MCI,MID,4.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Benfica on loan for the rest of the season
-333,Bornauw,Leeds,LEE,DEF,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Hamburg SV on loan for the rest of the season
-397,Semenyo,Man City,MCI,MID,8.2,0.0,37,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
-394,Alleyne,Man City,MCI,DEF,5.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Burnley on loan for the rest of the season
-39,Nedeljkovic,Aston Villa,AVL,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Rangers on loan for the rest of the season
-314,Ogbene,Ipswich Town,IPS,MID,4.9,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Lincoln City on loan until January
-311,Burns,Ipswich Town,IPS,MID,5.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Leicester City permanently
-307,Johnson,Ipswich Town,IPS,DEF,4.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Stoke City on loan for the rest of the season
-317,Hirst,Ipswich Town,IPS,FWD,5.0,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Stoke City permanently
-357,Frimpong,Liverpool,LIV,DEF,5.2,0.0,4,0.0,0.0,3.0,1.0,1,0.0,Hamstring injury - Unknown return date
-354,Jaros,Liverpool,LIV,GKP,4.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
-353,Pecsi,Liverpool,LIV,GKP,4.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined TSV Hartberg on loan for the rest of the season
-349,Mateo Joseph,Leeds,LEE,FWD,4.4,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Knee injury - Unknown return date
-348,Piroe,Leeds,LEE,FWD,5.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined West Ham United on loan for the rest of the season
-107,Furo,Brentford,BRE,FWD,4.4,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Unspecified injury - Unknown return date
-106,Thiago,Brentford,BRE,FWD,7.8,0.0,30,0.0,4.0,3.0,1.0,1,0.0,Suspended until 5 Dec
-100,Carvalho,Brentford,BRE,MID,5.0,0.0,6,0.0,0.0,3.0,1.0,1,0.0,Knock - Expected back 23 Nov
+283,Jacob,Hull City,HUL,DEF,4.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Newport County on loan until January
+299,Burstow,Hull City,HUL,FWD,4.5,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Sheffield Wednesday on loan for the rest of the season
+30,Digne,Aston Villa,AVL,DEF,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Paris Saint-Germain permanently
+248,Beto,Everton,EVE,FWD,5.4,0.0,2,0.0,0.0,4.0,0.0,1,0.0,Has joined Fiorentina permanently
+298,Destan,Hull City,HUL,FWD,4.5,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Konyaspor permanently
+252,McNally,Fulham,FUL,GKP,4.0,0.0,0,0.0,0.0,5.0,0.0,1,0.0,Has joined York City on loan for the rest of the season
+266,Cairney,Fulham,FUL,MID,4.9,0.0,2,0.0,0.33,5.0,0.0,1,0.0,Knee injury - Expected back 21 Nov
+27,G.Jesus,Arsenal,ARS,FWD,5.9,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined FC Barcelona permanently
+215,Devenny,Crystal Palace,CRY,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Stoke City permanently
+216,Esse,Crystal Palace,CRY,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Millwall on loan for the rest of the season
+217,M.França,Crystal Palace,CRY,MID,4.9,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Alverca on loan for the rest of the season
+219,J.Rak-Sakyi,Crystal Palace,CRY,MID,4.9,0.0,0,0.0,0.0,2.0,0.0,1,0.0,has joined  Kasimpasa on loan for the rest of the seaon.
+296,Akintola,Hull City,HUL,MID,5.0,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Has joined Omonoia FC permanently
+22,Nwaneri,Arsenal,ARS,MID,5.4,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Borussia Dortmund on loan for the rest of the season
+220,Cardines,Crystal Palace,CRY,DEF,4.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Bristol City on loan for the rest of the season
+225,Uche,Crystal Palace,CRY,FWD,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,has returned to Getafe CF
+223,Mateta,Crystal Palace,CRY,FWD,6.3,0.0,3,0.0,0.0,2.0,0.0,1,0.0,Suspended until 2 Dec
+234,Patterson,Everton,EVE,DEF,4.5,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Torino permanently
+235,Aznou,Everton,EVE,DEF,4.0,0.0,0,0.0,0.0,4.0,0.0,1,0.0,Has joined Malaga on loan for the rest of the season
+24,Nelson,Arsenal,ARS,MID,5.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,has departed the club as a free agent.
+23,Fábio Vieira,Arsenal,ARS,MID,5.5,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Hamburger SV permanently
+624,Cozier-Duberry,Brighton,BHA,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Middlesbrough on loan for the rest of the season
+63,Milosavljević,Bournemouth,BOU,DEF,4.9,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Thigh injury - Expected back 31 Oct
+632,Ansah,Hull City,HUL,FWD,4.9,0.0,0,0.0,0.0,4.0,1.0,1,0.0,Back injury - Unknown return date
+187,Eccles,Coventry City,COV,MID,4.8,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Ankle injury - Unknown return date
+191,Borges Rodrigues,Coventry City,COV,MID,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Burton Albion on loan for the rest of the season
+192,Andrews,Coventry City,COV,MID,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Oxford United on loan for the rest of the season
+193,Wright,Coventry City,COV,FWD,5.3,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Thigh injury - Unknown return date
+196,Markelo,Coventry City,COV,FWD,5.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Shabab Al-Ahli Dubai permanently
+197,Bassette,Coventry City,COV,FWD,4.5,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined KVC Westerlo on loan for the rest of the season
+20,Dowman,Arsenal,ARS,MID,5.3,0.0,2,0.0,0.33,3.0,0.0,1,0.0,Suspended until 29 Nov
+200,Lacroix,Chelsea,CHE,DEF,5.8,0.0,24,0.0,1.0,3.0,1.0,1,0.0,Hamstring injury - Unknown return date
+205,Sosa,Crystal Palace,CRY,DEF,4.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined FC Cologne on loan for the rest of the season
+206,Chadi Riad,Crystal Palace,CRY,DEF,4.3,0.0,1,0.0,0.0,2.0,0.0,1,0.0,Knee injury - Unknown return date
+208,Sarr,Crystal Palace,CRY,MID,6.2,0.0,2,0.0,0.0,2.0,0.0,1,0.0,Groin injury - Expected back 21 Nov
+158,Gittens,Chelsea,CHE,MID,5.8,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Ankle injury - Unknown return date
+163,D.Essugo,Chelsea,CHE,MID,4.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined RC Strasbourg on loan for the rest of the season
+165,João Pedro,Chelsea,CHE,FWD,7.6,0.0,47,0.0,0.0,3.0,1.0,1,0.0,Thigh injury - Unknown return date
+168,Marc Guiu,Chelsea,CHE,FWD,5.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined RB Leipzig permanently
+171,Dovin,Coventry City,COV,GKP,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,not included in squad.
+174,Kitching,Coventry City,COV,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Sheffield United on loan for the rest of the season
+18,Martinelli,Arsenal,ARS,MID,6.3,0.0,0,0.0,0.0,3.0,0.0,1,0.0,Has joined Al Hilal permanently
+180,Woolfenden,Coventry City,COV,DEF,3.9,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Knee injury - Unknown return date
+181,Brau,Coventry City,COV,DEF,4.0,0.0,0,0.0,0.0,2.0,1.0,1,0.0,Has joined Academico de Viseu on loan for the rest of the season
+182,Amenda,Coventry City,COV,DEF,3.9,0.0,4,0.0,0.0,2.0,1.0,1,0.0,Calf injury - Unknown return date
+128,Buonanotte,Brighton,BHA,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Elche on loan for the rest of the season
+131,Baleba,Man Utd,MUN,MID,4.9,0.0,8,0.0,1.0,4.0,0.0,1,0.0,Hamstring injury - Unknown return date
+132,Howell,Brighton,BHA,MID,4.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Leicester City on loan for the rest of the season
+133,Watson,Brighton,BHA,MID,5.0,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Has joined Leicester City on loan for the rest of the season
+135,Yohanna,Brighton,BHA,MID,4.8,0.0,1,0.0,0.0,2.0,0.0,1,0.0,Unspecified injury - Expected back 22 Nov
+137,Tzimas,Brighton,BHA,FWD,5.4,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Knee injury - Unknown return date
+139,Ferguson,Brighton,BHA,FWD,4.9,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Ankle injury - Unknown return date
+140,Sánchez,Chelsea,CHE,GKP,4.9,0.0,2,0.0,0.0,3.0,1.0,1,0.0,Has joined Como on loan for the rest of the season
+141,Jörgensen,Chelsea,CHE,GKP,5.0,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined RC Strasbourg on loan for the rest of the season
+142,James,Chelsea,CHE,DEF,5.2,0.0,3,0.0,0.0,3.0,1.0,1,0.0,Knee injury - Unknown return date
+143,Chalobah,Chelsea,CHE,DEF,5.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Como permanently
+146,B.Badiashile,Chelsea,CHE,DEF,4.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Napoli on loan for the rest of the season
+148,Hato,Chelsea,CHE,DEF,4.5,0.0,25,0.0,2.0,3.0,1.0,1,0.0,Unspecified injury - Unknown return date
+150,M.Sarr,Chelsea,CHE,DEF,4.5,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Has joined Real Sociedad on loan for the rest of the season
+65,J.Araujo,Bournemouth,BOU,DEF,4.4,0.0,0,0.0,0.0,3.0,1.0,1,0.0,Thigh injury - Unknown return date
+652,Azeez,Brighton,BHA,MID,5.5,0.0,0,0.0,0.0,2.0,0.0,1,0.0,Hamstring injury - Expected back 8 Nov
